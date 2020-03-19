@@ -1,1 +1,895 @@
-NUMBER;DEGREE;COURSE_NAME;LENGTH_SCORE_SCALE;N-TERM
+YEAR;DEGREE;NUMBER;COURSE_NAME;LENGTH_SCORE_SCALE;N-TERM
+2012;vmbo BB;12176;Nederlands CSE BB ;39;1,4
+2012;vmbo BB;12186;Duits CSE BB ;38;0,6
+2012;vmbo BB;12191;Engels CSE BB ;36;0,3
+2012;vmbo BB;12196;Arabisch CSE BB ;37;1,0
+2012;vmbo BB;12199;Turks CSE BB ;36;0,7
+2012;vmbo BB;12202;Spaans CSE BB ;39;0,7
+2012;vmbo BB;12205;economie CSE BB ;43;1,2
+2012;vmbo BB;12210;maatschappijleer 2 CSE BB ;44;1,1
+2012;vmbo BB;12215;aardrijkskunde CSE BB ;52;1,0
+2012;vmbo BB;12220;geschiedenis CSE BB ;51;1,2
+2012;vmbo BB;12225;wiskunde CSE BB ;68;1,5
+2012;vmbo BB;12230;natuur- en scheikunde 1 CSE BB ;49;1,1
+2012;vmbo BB;12237;biologie CSE BB ;39;1,1
+2013;vmbo BB;13176;Nederlands CSE BB ;38;1,2
+2013;vmbo BB;13185;Duits CSE BB ;37;0,6
+2013;vmbo BB;13190;Engels CSE BB ;40;0,0
+2013;vmbo BB;13195;Arabisch CSE BB ;39;1,0
+2013;vmbo BB;13198;Turks CSE BB ;38;0,7
+2013;vmbo BB;13201;Spaans CSE BB ;38;0,7
+2013;vmbo BB;13204;economie CSE BB ;44;1,3
+2013;vmbo BB;13209;maatschappijleer 2 CSE BB ;45;1,3
+2013;vmbo BB;13214;aardrijkskunde CSE BB ;43;1,0
+2013;vmbo BB;13219;geschiedenis CSE BB ;46;1,2
+2013;vmbo BB;13224;wiskunde CSE BB ;65;2,0
+2013;vmbo BB;13229;natuur- en scheikunde 1 CSE BB ;55;1,1
+2013;vmbo BB;13236;biologie CSE BB ;44;0,8
+2014;vmbo BB;14169;Nederlands CSE BB;42;1,1
+2014;vmbo BB;14178;Duits CSE BB;35;0,6
+2014;vmbo BB;14183;Engels CSE BB;37;0,0
+2014;vmbo BB;14188;Arabisch CSE BB;35;1,0
+2014;vmbo BB;14191;Turks CSE BB;41;0,7
+2014;vmbo BB;14194;Spaans CSE BB;40;0,7
+2014;vmbo BB;14197;economie CSE BB;41;1,3
+2014;vmbo BB;14202;maatschappijleer 2 CSE BB;45;1,1
+2014;vmbo BB;14207;aardrijkskunde CSE BB;47;1,1
+2014;vmbo BB;14212;geschiedenis en staatsinrichting CSE BB;47;1,2
+2014;vmbo BB;14217;wiskunde CSE BB;62;1,3
+2014;vmbo BB;14222;natuur- en scheikunde 1 CSE BB;53;1,1
+2014;vmbo BB;14228;biologie CSE BB;40;1,3
+2015;vmbo BB;15166;Nederlands CSE BB;40;1,2
+2015;vmbo BB;15175;Duits CSE BB;39;0,6
+2015;vmbo BB;15180;Engels CSE BB;39;0,3
+2015;vmbo BB;15185;Arabisch CSE BB;40;1,0
+2015;vmbo BB;15188;Turks CSE BB;40;0,7
+2015;vmbo BB;15191;Spaans CSE BB;36;0,7
+2015;vmbo BB;15194;economie CSE BB;45;1,2
+2015;vmbo BB;15199;maatschappijleer 2 CSE BB;42;1,1
+2015;vmbo BB;15204;aardrijkskunde CSE BB (nieuwe examenprogramma);49;1,9
+2015;vmbo BB;15206;aardrijkskunde CSE BB (bezem - oude examenprogramma);46;1,1
+2015;vmbo BB;15212;geschiedenis en staatsinrichting CSE BB;56;1,2
+2015;vmbo BB;15217;wiskunde CSE BB;61;1,6
+2015;vmbo BB;15222;natuur- en scheikunde 1 CSE BB;51;1,6
+2015;vmbo BB;15229;biologie CSE BB;41;1,9
+2016;vmbo BB;16163;Nederlands CSE BB;40;0,8
+2016;vmbo BB;16167;Frans CSE BB ;37;1,0
+2016;vmbo BB;16170;Duits CSE BB;35;0,6
+2016;vmbo BB;16173;Engels CSE BB;40;0,0
+2016;vmbo BB;16176;Arabisch CSE BB;39;1,0
+2016;vmbo BB;16179;Turks CSE BB;35;0,7
+2016;vmbo BB;16182;Spaans CSE BB;36;0,7
+2016;vmbo BB;16185;economie CSE BB;50;0,6
+2016;vmbo BB;16188;maatschappijleer 2 CSE BB;41;1,2
+2016;vmbo BB;16191;aardrijkskunde CSE BB;51;1,9
+2016;vmbo BB;16194;geschiedenis en staatsinrichting CSE BB;49;1,2
+2016;vmbo BB;16197;wiskunde CSE BB;59;2,0
+2016;vmbo BB;16200;natuur- en scheikunde 1 CSE BB;49;2,0
+2016;vmbo BB;16204;biologie CSE BB;41;1,1
+2017;vmbo BB;17160;Nederlands CSE BB;40;0,9
+2017;vmbo BB;17164;Frans CSE BB;38;1,0
+2017;vmbo BB;17167;Duits CSE BB;39;1,2
+2017;vmbo BB;17170;Engels CSE BB;41;1,0
+2017;vmbo BB;17173;Arabisch CSE BB;39;1,0
+2017;vmbo BB;17176;Turks CSE BB;43;0,7
+2017;vmbo BB;17179;Spaans CSE BB;37;0,7
+2017;vmbo BB;17182;economie CSE BB;53;1,1
+2017;vmbo BB;17185;maatschappijleer 2 CSE BB;41;1,3
+2017;vmbo BB;17188;aardrijkskunde CSE BB;51;2,1
+2017;vmbo BB;17191;geschiedenis en staatsinrichting CSE BB;52;1,2
+2017;vmbo BB;17194;wiskunde CSE BB;58;1,6
+2017;vmbo BB;17197;natuur- en scheikunde 1 CSE BB;52;1,5
+2017;vmbo BB;17201;biologie CSE BB;43;1,7
+2018;vmbo BB;18159;Nederlands CSE BB;39;0,6
+2018;vmbo BB;18163;Frans CSE BB;38;1,0
+2018;vmbo BB;18166;Duits CSE BB;39;1,0
+2018;vmbo BB;18169;Engels CSE BB;39;0,9
+2018;vmbo BB;18172;Arabisch CSE BB;36;1,0
+2018;vmbo BB;18175;Turks CSE BB;42;0,7
+2018;vmbo BB;18178;Spaans CSE BB;36;1,2
+2018;vmbo BB;18181;economie CSE BB;46;1,4
+2018;vmbo BB;18184;maatschappijkunde CSE BB;44;1,4
+2018;vmbo BB;18187;aardrijkskunde CSE BB;51;1,9
+2018;vmbo BB;18190;geschiedenis en staatsinrichting CSE BB;49;1,8
+2018;vmbo BB;18193;wiskunde CSE BB;58;1,4
+2018;vmbo BB;18196;natuur- en scheikunde 1 CSE BB;49;1,7
+2018;vmbo BB;18200;biologie CSE BB;43;2,0
+2019;vmbo BB;19160;Nederlands CSE BB;39;0,7
+2019;vmbo BB;19164;Frans CSE BB;39;1,0
+2019;vmbo BB;19167;Duits CSE BB;38;0,8
+2019;vmbo BB;19170;Engels CSE BB;42;0,8
+2019;vmbo BB;19173;Arabisch CSE BB;37;1,0
+2019;vmbo BB;19176;Turks CSE BB;42;0,7
+2019;vmbo BB;19179;Spaans CSE BB;36;0,7
+2019;vmbo BB;19182;economie CSE BB;42;1,0
+2019;vmbo BB;19185;maatschappijkunde CSE BB;45;1,6
+2019;vmbo BB;19188;aardrijkskunde CSE BB;51;2,4
+2019;vmbo BB;19191;geschiedenis en staatsinrichting CSE BB;51;2,0
+2019;vmbo BB;19194;wiskunde CSE BB;57;1,2
+2019;vmbo BB;19197;natuur- en scheikunde 1 CSE BB;49;1,7
+2019;vmbo BB;19201;biologie CSE BB;43;1,3
+2012;vmbo KB;12178;Nederlands CSE KB ;50;1,0
+2012;vmbo KB;12184;Frans CBT_vast KB ;"
+		46";1,2
+2012;vmbo KB;12188;Duits CSE KB ;43;1,2
+2012;vmbo KB;12193;Engels CSE KB ;43;1,0
+2012;vmbo KB;12197;Arabisch CSE KB ;48;1,0
+2012;vmbo KB;12200;Turks CSE KB ;46;0,7
+2012;vmbo KB;12203;Spaans CSE KB ;41;1,4
+2012;vmbo KB;12207;economie CSE KB ;50;1,3
+2012;vmbo KB;12212;maatschappijleer 2 CSE KB ;56;2,1
+2012;vmbo KB;12217;aardrijkskunde CSE KB ;59;1,0
+2012;vmbo KB;12222;geschiedenis CSE KB ;57;1,2
+2012;vmbo KB;12227;wiskunde CSE KB ;75;1,1
+2012;vmbo KB;12232;natuur- en scheikunde 1 CSE KB ;70;1,5
+2012;vmbo KB;12239;biologie CSE KB ;59;0,5
+2013;vmbo KB;13178;Nederlands CSE KB ;49;0,8
+2013;vmbo KB;13187;Duits CSE KB ;44;1,5
+2013;vmbo KB;13192;Engels CSE KB ;43;0,9
+2013;vmbo KB;13196;Arabisch CSE KB ;49;1,0
+2013;vmbo KB;13199;Turks CSE KB ;44;0,7
+2013;vmbo KB;13202;Spaans CSE KB ;41;0,7
+2013;vmbo KB;13206;economie CSE KB ;49;1,1
+2013;vmbo KB;13211;maatschappijleer 2 CSE KB ;56;1,3
+2013;vmbo KB;13216;aardrijkskunde CSE KB ;61;1,3
+2013;vmbo KB;13221;geschiedenis CSE KB ;55;1,4
+2013;vmbo KB;13226;wiskunde CSE KB ;75;1,2
+2013;vmbo KB;13231;natuur- en scheikunde 1 CSE KB ;65;0,9
+2013;vmbo KB;13238;biologie CSE KB ;60;0,3
+2014;vmbo KB;14171;Nederlands CSE KB;51;1,2
+2014;vmbo KB;14180;Duits CSE KB;45;1,3
+2014;vmbo KB;14185;Engels CSE KB;43;0,6
+2014;vmbo KB;14189;Arabisch CSE KB;47;1,0
+2014;vmbo KB;14192;Turks CSE KB;48;0,7
+2014;vmbo KB;14195;Spaans CSE KB;44;2,1
+2014;vmbo KB;14199;economie CSE KB;50;1,1
+2014;vmbo KB;14204;maatschappijleer 2 CSE KB;57;0,9
+2014;vmbo KB;14209;aardrijkskunde CSE KB;56;1,7
+2014;vmbo KB;14214;geschiedenis en staatsinrichting CSE KB;54;1,4
+2014;vmbo KB;14219;wiskunde CSE KB;75;0,9
+2014;vmbo KB;14224;natuur- en scheikunde 1 CSE KB;70;1,8
+2014;vmbo KB;14230;biologie CSE KB;59;0,3
+2015;vmbo KB;15168;Nederlands CSE KB;50;0,1
+2015;vmbo KB;15177;Duits CSE KB;44;1,4
+2015;vmbo KB;15182;Engels CSE KB;45;0,1
+2015;vmbo KB;15186;Arabisch CSE KB;46;1,0
+2015;vmbo KB;15189;Turks CSE KB;45;0,7
+2015;vmbo KB;15192;Spaans CSE KB;40;2,1
+2015;vmbo KB;15196;economie CSE KB;53;1,1
+2015;vmbo KB;15201;maatschappijleer 2 CSE KB;56;1,5
+2015;vmbo KB;15207;aardrijkskunde CSE KB (nieuwe examenprogramma);55;1,8
+2015;vmbo KB;15209;aardrijkskunde CSE KB (bezem - oude examenprogramma);60;1,5
+2015;vmbo KB;15214;geschiedenis en staatsinrichting CSE KB;54;1,4
+2015;vmbo KB;15219;wiskunde CSE KB;75;1,0
+2015;vmbo KB;15224;natuur- en scheikunde 1 CSE KB;68;1,3
+2015;vmbo KB;15231;biologie CSE KB;60;0,5
+2016;vmbo KB;16164;Nederlands CSE KB;52;1,1
+2016;vmbo KB;16168;Frans CSE KB ;42;0,9
+2016;vmbo KB;16171;Duits CSE KB;46;1,5
+2016;vmbo KB;16174;Engels CSE KB;45;0,4
+2016;vmbo KB;16177;Arabisch CSE KB;46;1,0
+2016;vmbo KB;16180;Turks CSE KB;44;0,7
+2016;vmbo KB;16183;Spaans CSE KB;43;1,2
+2016;vmbo KB;16186;economie CSE KB;45;1,2
+2016;vmbo KB;16189;maatschappijleer 2 CSE KB;55;1,7
+2016;vmbo KB;16192;aardrijkskunde CSE KB;54;2,3
+2016;vmbo KB;16195;geschiedenis en staatsinrichting CSE KB;57;1,4
+2016;vmbo KB;16198;wiskunde CSE KB;75;0,5
+2016;vmbo KB;16201;natuur- en scheikunde 1 CSE KB;70;1,7
+2016;vmbo KB;16205;biologie CSE KB;58;0,6
+2017;vmbo KB;17161;Nederlands CSE KB;51;0,7
+2017;vmbo KB;17165;Frans CSE KB;43;0,9
+2017;vmbo KB;17168;Duits CSE KB;43;0,5
+2017;vmbo KB;17171;Engels CSE KB;45;0,8
+2017;vmbo KB;17174;Arabisch CSE KB;49;1,0
+2017;vmbo KB;17177;Turks CSE KB;52;0,7
+2017;vmbo KB;17180;Spaans CSE KB;45;1,4
+2017;vmbo KB;17183;economie CSE KB;49;1,0
+2017;vmbo KB;17186;maatschappijleer 2 CSE KB;54;1,0
+2017;vmbo KB;17189;aardrijkskunde CSE KB;55;1,8
+2017;vmbo KB;17192;geschiedenis en staatsinrichting CSE KB;60;0,6
+2017;vmbo KB;17195;wiskunde CSE KB;74;1,1
+2017;vmbo KB;17198;natuur- en scheikunde 1 CSE KB;68;0,8
+2017;vmbo KB;17202;biologie CSE KB;63;1,0
+2018;vmbo KB;18160;Nederlands CSE KB;51;0,1
+2018;vmbo KB;18164;Frans CSE KB;44;0,9
+2018;vmbo KB;18167;Duits CSE KB;45;1,4
+2018;vmbo KB;18170;Engels CSE KB;45;1,7
+2018;vmbo KB;18173;Arabisch CSE KB;48;1,0
+2018;vmbo KB;18176;Turks CSE KB;43;0,7
+2018;vmbo KB;18179;Spaans CSE KB;43;1,5
+2018;vmbo KB;18182;economie CSE KB;50;0,5
+2018;vmbo KB;18185;maatschappijkunde CSE KB;55;0,9
+2018;vmbo KB;18188;aardrijkskunde CSE KB;53;1,5
+2018;vmbo KB;18191;geschiedenis en staatsinrichting CSE KB;58;1,5
+2018;vmbo KB;18194;wiskunde CSE KB;74;1,0
+2018;vmbo KB;18197;natuur- en scheikunde 1 CSE KB;67;1,5
+2018;vmbo KB;18201;biologie CSE KB;54;1,3
+2019;vmbo KB;19161;Nederlands CSE KB;52;0,6
+2019;vmbo KB;19165;Frans CSE KB;43;0,9
+2019;vmbo KB;19168;Duits CSE KB;45;1,2
+2019;vmbo KB;19171;Engels CSE KB;45;1,0
+2019;vmbo KB;19174;Arabisch CSE KB;48;1,5
+2019;vmbo KB;19177;Turks CSE KB;47;0,7
+2019;vmbo KB;19180;Spaans CSE KB;44;1,3
+2019;vmbo KB;19183;economie CSE KB;51;1,4
+2019;vmbo KB;19186;maatschappijkunde CSE KB;56;0,9
+2019;vmbo KB;19189;aardrijkskunde CSE KB;54;0,9
+2019;vmbo KB;19192;geschiedenis en staatsinrichting CSE KB;58;1,3
+2019;vmbo KB;19195;wiskunde CSE KB;75;0,8
+2019;vmbo KB;19198;natuur- en scheikunde 1 CSE KB;66;1,4
+2019;vmbo KB;19202;biologie CSE KB;58;0,8
+2012;vmbo GL en TL;12180;Nederlands CSE GL en TL ;51;0,5
+2012;vmbo GL en TL;12181;Fries CSE GL en TL ;53;0,9
+2012;vmbo GL en TL;12185;Frans CSE GL en TL ;48;1,2
+2012;vmbo GL en TL;12190;Duits CSE GL en TL ;48;0,9
+2012;vmbo GL en TL;12195;Engels CSE GL en TL ;48;0,3
+2012;vmbo GL en TL;12198;Arabisch CSE GL en TL ;47;1,0
+2012;vmbo GL en TL;12201;Turks CSE GL en TL ;52;0,5
+2012;vmbo GL en TL;12204;Spaans CSE GL en TL ;42;2,0
+2012;vmbo GL en TL;12209;economie CSE GL en TL ;57;0,6
+2012;vmbo GL en TL;12214;maatschappijleer 2 CSE GL en TL ;65;1,4
+2012;vmbo GL en TL;12219;aardrijkskunde CSE GL en TL ;62;1,1
+2012;vmbo GL en TL;12224;geschiedenis CSE GL en TL ;63;0,3
+2012;vmbo GL en TL;12229;wiskunde CSE GL en TL ;75;1,0
+2012;vmbo GL en TL;12234;natuur- en scheikunde 1 CSE GL en TL ;76;1,0
+2012;vmbo GL en TL;12235;natuur- en scheikunde 1 CBT GL en TL ;76;1,0
+2012;vmbo GL en TL;12236;natuur- en scheikunde 2 CSE GL en TL ;67;0,8
+2012;vmbo GL en TL;12241;biologie CSE GL en TL ;65;0,3
+2012;vmbo GL en TL;12242;biologie  CBT GL en TL  ;65;0,4
+2012;vmbo GL en TL;12243;biologie CBT GL en TL (extra examenzitting 23 mei) ;63;0,8
+2012;vmbo GL en TL;12244;beeldende vakken CSE GL en TL ;73;0,6
+2012;vmbo GL en TL;12245;beeldende vakken CPE GL en TL tekenen;50;0,0
+2012;vmbo GL en TL;12246;beeldende vakken CPE GL en TL handenarbeid;50;0,0
+2012;vmbo GL en TL;12247;beeldende vakken CPE GL en TL textiele werkvormen;50;0,0
+2012;vmbo GL en TL;12248;beeldende vakken CPE GL en TL audiovisuele vormgeving;50;0,0
+2012;vmbo GL en TL;12250;muziek CBT & Autoplay GL en TL ;65;1,0
+2012;vmbo GL en TL;12252;"dans CBT 
+	& Autoplay GL en TL ";69;0,8
+2012;vmbo GL en TL;12254;"drama CBT 
+	& Autoplay GL en TL ";55;0,4
+2013;vmbo GL en TL;13180;Nederlands CSE GL en TL ;50;0,2
+2013;vmbo GL en TL;13181;Fries CSE GL en TL ;52;0,7
+2013;vmbo GL en TL;13184;Frans CSE GL en TL ;46;0,7
+2013;vmbo GL en TL;13189;Duits CSE GL en TL ;47;0,2
+2013;vmbo GL en TL;13194;Engels CSE GL en TL ;42;0,3
+2013;vmbo GL en TL;13197;Arabisch CSE GL en TL ;47;1,0
+2013;vmbo GL en TL;13200;Turks CSE GL en TL ;53;0,5
+2013;vmbo GL en TL;13203;Spaans CSE GL en TL ;44;1,3
+2013;vmbo GL en TL;13208;economie CSE GL en TL ;58;"
+0,8"
+2013;vmbo GL en TL;13213;maatschappijleer 2 CSE GL en TL ;60;1,3
+2013;vmbo GL en TL;13218;aardrijkskunde CSE GL en TL ;64;0,8
+2013;vmbo GL en TL;13223;geschiedenis CSE GL en TL ;64;1,2
+2013;vmbo GL en TL;13228;wiskunde CSE GL en TL ;77;0,6
+2013;vmbo GL en TL;13233;natuur- en scheikunde 1 CSE GL en TL ;71;0,5
+2013;vmbo GL en TL;13235;natuur- en scheikunde 2 CSE GL en TL ;70;0,2
+2013;vmbo GL en TL;13240;biologie CSE GL en TL ;60;0,5
+2013;vmbo GL en TL;13243;beeldende vakken CSE GL en TL ;71;1,1
+2013;vmbo GL en TL;13248;muziek CSE GL en TL ;66;0,9
+2013;vmbo GL en TL;13250;dans CSE GL en TL ;73;0,5
+2013;vmbo GL en TL;13252;drama CSE GL en TL ;67;0,7
+2013;vmbo GL en TL;13244;beeldende vakken CPE GL en TL tekenen;50;0,0
+2013;vmbo GL en TL;13245;beeldende vakken CPE GL en TL handenarbeid;50;0,0
+2013;vmbo GL en TL;13246;beeldende vakken CPE GL en TL textiele werkvormen;50;0,0
+2013;vmbo GL en TL;13247;beeldende vakken CPE GL en TL audiovisuele vormgeving;50;0,0
+2014;vmbo GL en TL;14173;Nederlands CSE GL en TL;50;0,4
+2014;vmbo GL en TL;14174;Fries CSE GL en TL;48;0,2
+2014;vmbo GL en TL;14177;Frans CSE GL en TL;47;1,6
+2014;vmbo GL en TL;14182;Duits CSE GL en TL;46;0,0
+2014;vmbo GL en TL;14187;Engels CSE GL en TL;48;1,1
+2014;vmbo GL en TL;14190;Arabisch CSE GL en TL;49;1,0
+2014;vmbo GL en TL;14193;Turks CSE GL en TL;52;0,5
+2014;vmbo GL en TL;14196;Spaans CSE GL en TL;48;1,7
+2014;vmbo GL en TL;14201;economie CSE GL en TL;64;1,4
+2014;vmbo GL en TL;14206;maatschappijleer 2 CSE GL en TL;63;1,3
+2014;vmbo GL en TL;14211;aardrijkskunde CSE GL en TL;64;0,9
+2014;vmbo GL en TL;14216;geschiedenis en staatsinrichting CSE GL en TL;64;1,5
+2014;vmbo GL en TL;14221;wiskunde CSE GL en TL;76;0,9
+2014;vmbo GL en TL;14226;natuur- en scheikunde 1 CSE GL en TL;82;1,0
+2014;vmbo GL en TL;14227;natuur- en scheikunde 2 CSE GL en TL;66;0,8
+2014;vmbo GL en TL;14232;biologie CSE GL en TL;60;0,2
+2014;vmbo GL en TL;14233;beeldende vakken CSE GL en TL;71;0,9
+2014;vmbo GL en TL;14239;muziek CSE GL en TL;61;1,1
+2014;vmbo GL en TL;14240;dans CSE GL en TL;62;0,7
+2014;vmbo GL en TL;14241;drama CSE GL en TL;60;0,0
+2014;vmbo GL en TL;"
+14234";beeldende vakken CPE GL en TL tekenen;50;0,0
+2014;vmbo GL en TL;"
+14235";beeldende vakken CPE GL en TL handenarbeid;50;0,0
+2014;vmbo GL en TL;"
+14236";beeldende vakken CPE GL en TL textiele werkvormen;50;0,0
+2014;vmbo GL en TL;"
+14237";beeldende vakken CPE GL en TL audiovisuele vormgeving;50;0,0
+2015;vmbo GL en TL;15170;Nederlands CSE GL en TL;49;0,2
+2015;vmbo GL en TL;15171;Fries CSE GL en TL;48;0,0
+2015;vmbo GL en TL;15174;Frans CSE GL en TL;45;1,4
+2015;vmbo GL en TL;15179;Duits CSE GL en TL;48;1,4
+2015;vmbo GL en TL;15184;Engels CSE GL en TL;44;0,6
+2015;vmbo GL en TL;15187;Arabisch CSE GL en TL;47;1,0
+2015;vmbo GL en TL;15190;Turks CSE GL en TL;53;0,5
+2015;vmbo GL en TL;15193;Spaans CSE GL en TL;46;1,7
+2015;vmbo GL en TL;15198;economie CSE GL en TL;57;1,2
+2015;vmbo GL en TL;15203;maatschappijleer 2 CSE GL en TL;62;1,4
+2015;vmbo GL en TL;15210;aardrijkskunde CSE GL en TL (nieuwe examnprogramma);58;0,8
+2015;vmbo GL en TL;15211;aardrijkskunde CSE GL en TL (bezem - oude examenprogramma);66;0,7
+2015;vmbo GL en TL;15216;geschiedenis en staatsinrichting CSE GL en TL;65;0,9
+2015;vmbo GL en TL;15221;wiskunde CSE GL en TL;76;1,0
+2015;vmbo GL en TL;15227;natuur- en scheikunde 1 CSE GL en TL;77;1,4
+2015;vmbo GL en TL;15228;natuur- en scheikunde 2 CSE GL en TL;67;0,8
+2015;vmbo GL en TL;15233;biologie CSE GL en TL;66;0,7
+2015;vmbo GL en TL;15234;beeldende vakken CSE GL en TL;70;0,7
+2015;vmbo GL en TL;15235;beeldende vakken CPE GL en TL (tekenen, handenarbeid, textiele werkvormen, audiovisuele vormgeving);50;0,0
+2015;vmbo GL en TL;15240;muziek CSE GL en TL;66;1,5
+2015;vmbo GL en TL;15241;dans CSE GL en TL;60;1,3
+2015;vmbo GL en TL;15242;drama CSE GL en TL;63;0,7
+2016;vmbo GL en TL;16165;Nederlands CSE GL en TL;53;0,9
+2016;vmbo GL en TL;16166;Fries CSE GL en TL;48;0,0
+2016;vmbo GL en TL;16169;Frans CSE GL en TL;47;0,8
+2016;vmbo GL en TL;16172;Duits CSE GL en TL;45;1,3
+2016;vmbo GL en TL;16175;Engels CSE GL en TL;45;0,5
+2016;vmbo GL en TL;16178;Arabisch CSE GL en TL;50;1,0
+2016;vmbo GL en TL;16181;Turks CSE GL en TL;50;0,5
+2016;vmbo GL en TL;16184;Spaans CSE GL en TL;44;1,7
+2016;vmbo GL en TL;16187;economie CSE GL en TL;56;0,9
+2016;vmbo GL en TL;16190;maatschappijleer 2 CSE GL en TL;63;1,6
+2016;vmbo GL en TL;16193;aardrijkskunde CSE GL en TL;57;1,3
+2016;vmbo GL en TL;16196;geschiedenis en staatsinrichting CSE GL en TL;65;0,9
+2016;vmbo GL en TL;16199;wiskunde CSE GL en TL;77;0,7
+2016;vmbo GL en TL;16202;natuur- en scheikunde 1 CSE GL en TL;76;1,3
+2016;vmbo GL en TL;16203;natuur- en scheikunde 2 CSE GL en TL;68;1,2
+2016;vmbo GL en TL;16206;biologie CSE GL en TL;65;0,9
+2016;vmbo GL en TL;16207;beeldende vakken CSE GL en TL;63;1,0
+2016;vmbo GL en TL;16209;muziek CSE GL en TL;67;1,8
+2016;vmbo GL en TL;16210;dans CSE GL en TL;67;1,5
+2016;vmbo GL en TL;16211;drama CSE GL en TL;59;1,0
+2016;vmbo GL en TL;16208;beeldende vakken CPE GL en TL (tekenen, handenarbeid, textiele werkvormen, audiovisuele vormgeving);50;0,0
+2017;vmbo GL en TL;17162;Nederlands CSE GL en TL;51;0,3
+2017;vmbo GL en TL;17163;Fries CSE GL en TL;47;0,0
+2017;vmbo GL en TL;17166;Frans CSE GL en TL;49;1,2
+2017;vmbo GL en TL;17169;Duits CSE GL en TL;48;1,0
+2017;vmbo GL en TL;17172;Engels CSE GL en TL;46;1,4
+2017;vmbo GL en TL;17175;Arabisch CSE GL en TL;49;1,0
+2017;vmbo GL en TL;17178;Turks CSE GL en TL;53;0,5
+2017;vmbo GL en TL;17181;Spaans CSE GL en TL;45;1,8
+2017;vmbo GL en TL;17184;economie CSE GL en TL;55;0,5
+2017;vmbo GL en TL;17187;maatschappijleer 2 CSE GL en TL;61;1,5
+2017;vmbo GL en TL;17190;aardrijkskunde CSE GL en TL;58;0,7
+2017;vmbo GL en TL;17193;geschiedenis en staatsinrichting CSE GL en TL;65;0,9
+2017;vmbo GL en TL;17196;wiskunde CSE GL en TL;76;0,8
+2017;vmbo GL en TL;17199;natuur- en scheikunde 1 CSE GL en TL;76;1,2
+2017;vmbo GL en TL;17200;natuur- en scheikunde 2 CSE GL en TL;67;1,4
+2017;vmbo GL en TL;17203;biologie CSE GL en TL;66;0,8
+2017;vmbo GL en TL;17204;beeldende vakken CSE GL en TL;65;0,5
+2017;vmbo GL en TL;17206;muziek CSE GL en TL;68;0,9
+2017;vmbo GL en TL;17207;dans CSE GL en TL;64;0,7
+2017;vmbo GL en TL;17208;drama CSE GL en TL;61;0,0
+2017;vmbo GL en TL;17205;beeldende vakken CPE GL en TL (tekenen, handenarbeid, textiele werkvormen, audiovisuele vormgeving);50;0,0
+2018;vmbo GL en TL;18161;Nederlands CSE GL en TL;51;0,3
+2018;vmbo GL en TL;18162;Fries CSE GL en TL;46;0,0
+2018;vmbo GL en TL;18165;Frans CSE GL en TL;49;0,9
+2018;vmbo GL en TL;18168;Duits CSE GL en TL;47;0,8
+2018;vmbo GL en TL;18171;Engels CSE GL en TL;45;0,9
+2018;vmbo GL en TL;18174;Arabisch CSE GL en TL;49;1,0
+2018;vmbo GL en TL;18177;Turks CSE GL en TL;46;0,5
+2018;vmbo GL en TL;18180;Spaans CSE GL en TL;45;1,1
+2018;vmbo GL en TL;18183;economie CSE GL en TL;54;0,7
+2018;vmbo GL en TL;18186;maatschappijkunde CSE GL en TL;61;1,5
+2018;vmbo GL en TL;18189;aardrijkskunde CSE GL en TL;57;1,2
+2018;vmbo GL en TL;18192;geschiedenis en staatsinrichting CSE GL en TL;64;0,9
+2018;vmbo GL en TL;18195;wiskunde CSE GL en TL;78;1,0
+2018;vmbo GL en TL;18198;natuur- en scheikunde 1 CSE GL en TL;76;0,9
+2018;vmbo GL en TL;18199;natuur- en scheikunde 2 CSE GL en TL;68;1,8
+2018;vmbo GL en TL;18202;biologie CSE GL en TL;64;0,7
+2018;vmbo GL en TL;18203;beeldende vakken CSE GL en TL;63;0,6
+2018;vmbo GL en TL;18205;muziek CSE GL en TL;67;0,5
+2018;vmbo GL en TL;18206;dans CSE GL en TL;64;0,5
+2018;vmbo GL en TL;18207;drama CSE GL en TL;58;0,2
+2018;vmbo GL en TL;18204;beeldende vakken CPE GL en TL;50;0,0
+2019;vmbo GL en TL;19162;Nederlands CSE GL en TL;50;0,4
+2019;vmbo GL en TL;19163;Fries CSE GL en TL;51;0,3
+2019;vmbo GL en TL;19166;Frans CSE GL en TL;50;1,9
+2019;vmbo GL en TL;19169;Duits CSE GL en TL;46;1,2
+2019;vmbo GL en TL;19172;Engels CSE GL en TL;46;1,3
+2019;vmbo GL en TL;19175;Arabisch CSE GL en TL;47;1,0
+2019;vmbo GL en TL;19178;Turks CSE GL en TL;50;0,5
+2019;vmbo GL en TL;19181;Spaans CSE GL en TL;45;1,1
+2019;vmbo GL en TL;19184;economie CSE GL en TL;58;1,1
+2019;vmbo GL en TL;19187;maatschappijkunde CSE GL en TL;61;1,4
+2019;vmbo GL en TL;19190;aardrijkskunde CSE GL en TL;57;1,0
+2019;vmbo GL en TL;19193;geschiedenis en staatsinrichting CSE GL en TL;65;1,1
+2019;vmbo GL en TL;19196;wiskunde CSE GL en TL;70;1,0
+2019;vmbo GL en TL;19199;natuur- en scheikunde 1 CSE GL en TL;77;1,0
+2019;vmbo GL en TL;19200;natuur- en scheikunde 2 CSE GL en TL;67;1,6
+2019;vmbo GL en TL;19203;biologie CSE GL en TL;65;0,8
+2019;vmbo GL en TL;19204;beeldende vakken CSE GL en TL;66;0,5
+2019;vmbo GL en TL;19205;beeldende vakken CPE GL en TL;50;0,0
+2019;vmbo GL en TL;19206;muziek CSE GL en TL;66;1,1
+2019;vmbo GL en TL;19208;dans CSE GL en TL;62;0,5
+2019;vmbo GL en TL;19210;drama CSE GL en TL;60;1,2
+2012;havo;12141;HAVO Nederlands ;50;1,1
+2012;havo;12143;HAVO Fries ;50;0,6
+2012;havo;12144;HAVO Frans ;49;1,3
+2012;havo;12145;HAVO Duits ;50;0,2
+2012;havo;12147;HAVO Engels ;55;0,4
+2012;havo;12148;HAVO Spaans ;45;1,7
+2012;havo;12149;HAVO Russisch ;48;0,7
+2012;havo;12150;HAVO Turks ;52;0,7
+2012;havo;12151;HAVO Arabisch ;45;0,7
+2012;havo;12152;HAVO geschiedenis ;75;1,6
+2012;havo;12153;HAVO geschiedenis (pilot) ;78;0,9
+2012;havo;12154;HAVO aardrijkskunde ;61;0,7
+2012;havo;12155;HAVO aardrijkskunde CBT - ExamenTester ;61;0,9
+2012;havo;12156;HAVO wiskunde A ;84;1,1
+2012;havo;12157;HAVO wiskunde A (pilot) ;82;1,5
+2012;havo;12158;HAVO wiskunde B ;80;1,2
+2012;havo;12159;HAVO wiskunde B (pilot) ;82;1,3
+2012;havo;12160;HAVO natuurkunde ;76;1,2
+2012;havo;12161;HAVO natuurkunde (pilot) ;78;0,9
+2012;havo;12162;HAVO scheikunde ;79;1,1
+2012;havo;12163;HAVO scheikunde (pilot) ;78;1,4
+2012;havo;12164;HAVO biologie ;82;1,0
+2012;havo;12165;HAVO biologie (pilot) ;82;0,8
+2012;havo;12166;HAVO economie  ;54;1,2
+2012;havo;12167;HAVO economie (bezem) ;60;1,3
+2012;havo;12168;HAVO management & organisatie ;61;1,9
+2012;havo;12169;HAVO muziek met audio-cd ;75;1,1
+2012;havo;12170;HAVO muziek CBT - ExamenTester ;75;1,1
+2012;havo;12171;"
+	HAVO tekenen, handvaardigheid, textiele vormgeving";85;1,2
+2012;havo;12172;HAVO filosofie ;45;1,4
+2012;havo;12173;HAVO maatschappijwetenschappen ;75;1,2
+2012;havo;12175;"HAVO kunst (dans/drama/muziek/beeldende vormgeving/algemeen) 
+	zowel CBT als Autoplay";59;0,8
+2013;havo;13141;HAVO Nederlands ;47;1,1
+2013;havo;13143;HAVO Fries ;46;0,5
+2013;havo;13144;HAVO Frans ;50;1,0
+2013;havo;13145;HAVO Duits ;49;0,2
+2013;havo;13146;HAVO Engels ;47;0,3
+2013;havo;13147;HAVO Spaans ;45;1,3
+2013;havo;13148;HAVO Russisch ;46;0,7
+2013;havo;13149;HAVO Turks ;54;0,7
+2013;havo;13150;HAVO Arabisch ;50;0,7
+2013;havo;13151;HAVO geschiedenis ;75;1,6
+2013;havo;13152;HAVO geschiedenis (pilot) ;78;0,9
+2013;havo;13153;HAVO aardrijkskunde ;68;1,2
+2013;havo;13155;HAVO wiskunde A ;79;0,5
+2013;havo;13156;HAVO wiskunde A (pilot) ;80;1,3
+2013;havo;13157;HAVO wiskunde B ;80;0,8
+2013;havo;13158;HAVO wiskunde B (pilot) ;80;1,0
+2013;havo;13159;HAVO natuurkunde ;74;1,3
+2013;havo;13160;HAVO natuurkunde (pilot) ;74;1,5
+2013;havo;13161;HAVO scheikunde ;78;1,5
+2013;havo;13162;HAVO scheikunde (pilot) ;79;2,1
+2013;havo;13163;HAVO biologie ;79;1,2
+2013;havo;13164;HAVO biologie (pilot) ;81;1,3
+2013;havo;13165;HAVO economie ;56;1,5
+2013;havo;13167;HAVO management en organisatie ;61;1,7
+2013;havo;13168;HAVO muziek ;74;1,1
+2013;havo;13170;HAVO tekenen, handvaardigheid, textiele vormgeving ;80;1,5
+2013;havo;13171;HAVO filosofie ;44;1,0
+2013;havo;13172;HAVO maatschappijwetenschappen ;74;1,4
+2013;havo;13173;HAVO maatschappijwetenschappen (pilot) ;72;1,8
+2013;havo;13174;HAVO kunst (dans/drama/muziek/beeldende vormgeving/algemeen);64;1,2
+2014;havo;14139;HAVO Nederlands;45;1,2
+2014;havo;14140;HAVO Fries;44;0,0
+2014;havo;14141;HAVO Frans;49;0,4
+2014;havo;14142;HAVO Duits;48;0,4
+2014;havo;14143;HAVO Engels;47;0,0
+2014;havo;14144;HAVO Spaans;48;1,5
+2014;havo;14145;HAVO Russisch;51;0,7
+2014;havo;14146;HAVO Turks;53;0,7
+2014;havo;14147;HAVO Arabisch;46;0,7
+2014;havo;14148;HAVO geschiedenis;76;1,7
+2014;havo;14149;HAVO geschiedenis (pilot);79;1,5
+2014;havo;14150;HAVO aardrijkskunde;64;1,3
+2014;havo;14151;HAVO wiskunde A;80;1,1
+2014;havo;14152;HAVO wiskunde A (pilot);84;1,4
+2014;havo;14153;HAVO wiskunde B;78;1,4
+2014;havo;14154;HAVO wiskunde B (pilot);80;1,7
+2014;havo;14155;HAVO natuurkunde;81;1,3
+2014;havo;14156;HAVO natuurkunde (pilot);80;1,4
+2014;havo;14157;HAVO scheikunde;76;1,4
+2014;havo;14158;HAVO scheikunde (pilot);75;1,7
+2014;havo;14159;HAVO biologie;80;0,8
+2014;havo;14160;HAVO biologie (pilot);77;0,7
+2014;havo;14161;HAVO economie ;61;1,1
+2014;havo;14162;HAVO management & organisatie;61;0,6
+2014;havo;14163;HAVO muziek;73;0,9
+2014;havo;14164;HAVO tekenen, handvaardigheid, textiele vormgeving;80;1,4
+2014;havo;14165;HAVO filosofie;44;1,8
+2014;havo;14166;HAVO maatschappijwetenschappen;73;1,7
+2014;havo;14167;HAVO maatschappijwetenschappen (pilot);69;1,6
+2014;havo;14168;"
+	HAVO kunst (dans/drama/muziek/beeldende vormgeving/algemeen)";63;1,3
+2015;havo;15137;HAVO Nederlands;63;1,1
+2015;havo;15138;HAVO Fries;45;0,0
+2015;havo;15139;HAVO Frans;50;0,0
+2015;havo;15140;HAVO Duits;51;1,0
+2015;havo;15141;HAVO Engels;47;0,5
+2015;havo;15142;HAVO Spaans;47;1,0
+2015;havo;15143;HAVO Russisch;49;0,7
+2015;havo;15144;HAVO Turks;55;0,7
+2015;havo;15145;HAVO Arabisch;46;0,7
+2015;havo;15146;HAVO geschiedenis;75;1,1
+2015;havo;15147;HAVO aardrijkskunde;64;1,0
+2015;havo;15148;HAVO wiskunde A;83;1,0
+2015;havo;15149;HAVO wiskunde A (pilot);85;1,0
+2015;havo;15150;HAVO wiskunde B;80;1,2
+2015;havo;15151;HAVO wiskunde B (pilot);76;1,5
+2015;havo;15152;HAVO natuurkunde;77;1,2
+2015;havo;15153;HAVO natuurkunde (bezem);80;1,4
+2015;havo;15154;HAVO scheikunde;77;1,8
+2015;havo;15155;HAVO scheikunde (bezem);80;1,3
+2015;havo;15156;HAVO biologie;78;0,7
+2015;havo;15157;HAVO biologie (bezem);74;1,2
+2015;havo;15158;HAVO economie;58;1,8
+2015;havo;15159;HAVO management & organisatie;59;0,5
+2015;havo;15160;HAVO muziek;78;0,9
+2015;havo;15161;HAVO tekenen, handvaardigheid, textiele vormgeving;80;1,4
+2015;havo;15162;HAVO filosofie;42;1,6
+2015;havo;15163;HAVO maatschappijwetenschappen;77;1,3
+2015;havo;15164;HAVO maatschappijwetenschappen (pilot);58;1,4
+2015;havo;15165;HAVO kunstbeeldende vormgeving-dans-drama-muziek-algemeen;72;1,4
+2016;havo;16137;HAVO Nederlands;57;0,9
+2016;havo;16138;HAVO Fries;46;0,0
+2016;havo;16139;HAVO Frans;49;0,0
+2016;havo;16140;HAVO Duits;50;0,5
+2016;havo;16141;HAVO Engels;48;1,1
+2016;havo;16142;HAVO Spaans;45;1,2
+2016;havo;16143;HAVO Russisch;49;0,7
+2016;havo;16144;HAVO Turks;56;1,0
+2016;havo;16145;HAVO Arabisch;49;0,7
+2016;havo;16146;HAVO geschiedenis;73;1,3
+2016;havo;16147;HAVO aardrijkskunde;63;1,0
+2016;havo;16148;HAVO wiskunde A;79;1,0
+2016;havo;16149;HAVO wiskunde A (pilot);84;1,5
+2016;havo;16150;HAVO wiskunde B;77;1,5
+2016;havo;16151;HAVO wiskunde B (pilot);77;1,5
+2016;havo;16152;HAVO natuurkunde;79;1,2
+2016;havo;16153;HAVO scheikunde;77;1,7
+2016;havo;16154;HAVO biologie;77;1,0
+2016;havo;16155;HAVO economie;52;1,4
+2016;havo;16156;HAVO management & organisatie;58;0,8
+2016;havo;16157;HAVO muziek;75;1,4
+2016;havo;16158;HAVO tekenen, handvaardigheid, textiele vormgeving CSE;85;1,8
+2016;havo;16159;HAVO filosofie;45;1,4
+2016;havo;16160;HAVO maatschappijwetenschappen;71;0,7
+2016;havo;16161;HAVO maatschappijwetenschappen (pilot);57;1,5
+2016;havo;16162;HAVO kunst (dans/drama/muziek/beeldende vormgeving/algemeen);66;1,0
+2017;havo;17134;HAVO Nederlands;61;1,6
+2017;havo;17135;HAVO Fries;46;0,0
+2017;havo;17136;HAVO Frans;48;0,0
+2017;havo;17137;HAVO Duits;50;0,2
+2017;havo;17138;HAVO Engels;49;1,4
+2017;havo;17139;HAVO Spaans;46;1,3
+2017;havo;17140;HAVO Russisch;48;0,7
+2017;havo;17141;HAVO Turks;51;0,7
+2017;havo;17142;HAVO Arabisch;45;0,7
+2017;havo;17143;HAVO geschiedenis;71;0,7
+2017;havo;17144;HAVO aardrijkskunde;63;1,1
+2017;havo;17145;HAVO wiskunde A;80;1,5
+2017;havo;17146;HAVO wiskunde A bezem;79;1,1
+2017;havo;17147;HAVO wiskunde B;79;1,8
+2017;havo;17148;HAVO wiskunde B bezem;78;2,0
+2017;havo;17149;HAVO natuurkunde;76;1,2
+2017;havo;17150;HAVO scheikunde;76;1,2
+2017;havo;17151;HAVO biologie;75;0,9
+2017;havo;17152;HAVO economie;48;1,6
+2017;havo;17153;HAVO management & organisatie;59;0,3
+2017;havo;17154;HAVO muziek;75;1,1
+2017;havo;17155;HAVO tekenen, handvaardigheid, textiele vormgeving;79;0,8
+2017;havo;17156;HAVO filosofie;46;1,4
+2017;havo;17157;HAVO maatschappijwetenschappen;60;1,0
+2017;havo;17158;HAVO maatschappijwetenschappen (pilot);53;1,1
+2017;havo;17159;HAVO kunst (dans/drama/muziek/beeldende vormgeving/algemeen);66;0,8
+2018;havo;18135;HAVO Nederlands;60;0,7
+2018;havo;18136;HAVO Fries;42;0,2
+2018;havo;18137;HAVO Frans;49;0,4
+2018;havo;18138;HAVO Duits;50;0,6
+2018;havo;18139;HAVO Engels;47;1,4
+2018;havo;18140;HAVO Spaans;50;1,9
+2018;havo;18141;HAVO Russisch;50;0,7
+2018;havo;18142;HAVO Turks;48;0,7
+2018;havo;18143;HAVO Arabisch;47;0,7
+2018;havo;18144;HAVO geschiedenis;72;1,0
+2018;havo;18145;HAVO aardrijkskunde;66;1,6
+2018;havo;18146;HAVO wiskunde A;76;1,2
+2018;havo;18147;HAVO wiskunde B;77;1,2
+2018;havo;18148;HAVO natuurkunde;75;0,6
+2018;havo;18149;HAVO scheikunde;76;1,0
+2018;havo;18150;HAVO biologie;79;0,9
+2018;havo;18151;HAVO economie;59;1,3
+2018;havo;18152;HAVO management & organisatie;62;0,8
+2018;havo;18153;HAVO muziek;74;1,1
+2018;havo;18154;HAVO tekenen, handvaardigheid, textiele vormgeving;77;0,9
+2018;havo;18155;HAVO filosofie;45;1,5
+2018;havo;18156;HAVO maatschappijwetenschappen;66;1,3
+2018;havo;18157;HAVO maatschappijwetenschappen (pilot);54;1,7
+2018;havo;18158;HAVO kunst beeldende vormgeving-dans-drama-muziek-algemeen;64;1,3
+2019;havo;19134;HAVO Nederlands;63;1,0
+2019;havo;19135;HAVO Fries;47;0,0
+2019;havo;19136;HAVO Frans;50;1,2
+2019;havo;19137;HAVO Duits;52;0,2
+2019;havo;19138;HAVO Engels;47;1,2
+2019;havo;19139;HAVO Spaans;49;0,8
+2019;havo;19140;HAVO Russisch;49;0,7
+2019;havo;19141;HAVO Turks;49;0,7
+2019;havo;19142;HAVO Arabisch;46;0,7
+2019;havo;19143;HAVO geschiedenis;71;1,1
+2019;havo;19144;HAVO aardrijkskunde;64;1,1
+2019;havo;19145;HAVO wiskunde A;78;1,0
+2019;havo;19146;HAVO wiskunde B;78;1,5
+2019;havo;19147;HAVO natuurkunde;78;1,3
+2019;havo;19148;HAVO scheikunde;78;1,3
+2019;havo;19149;HAVO biologie;77;0,8
+2019;havo;19150;HAVO economie;56;1,0
+2019;havo;19151;HAVO management & organisatie;62;1,2
+2019;havo;19152;HAVO muziek;71;1,8
+2019;havo;19154;HAVO tekenen, handvaardigheid, textiele vormgeving;70;0,7
+2019;havo;19155;HAVO filosofie;45;1,3
+2019;havo;19156;HAVO maatschappijwetenschappen bezem;70;1,3
+2019;havo;19157;HAVO maatschappijwetenschappen ;50;1,0
+2019;havo;19158;HAVO kunstbeeldende vormgeving-dans-drama-muziek-algemeen;65;1,0
+2012;vwo;12101;VWO Nederlands  ;49;0,9
+2012;vwo;12103;VWO Fries ;51;1,7
+2012;vwo;12104;VWO Latijn  ;74;1,0
+2012;vwo;12105;VWO Grieks ;76;0,3
+2012;vwo;12106;VWO Frans ;50;1,5
+2012;vwo;12107;VWO Duits ;55;1,2
+2012;vwo;12108;VWO Engels ;48;0,6
+2012;vwo;12109;VWO Spaans ;50;0,4
+2012;vwo;12110;VWO Russisch ;49;0,7
+2012;vwo;12111;VWO Turks ;53;0,7
+2012;vwo;12112;VWO Arabisch ;46;0,7
+2012;vwo;12113;VWO geschiedenis ;75;0,6
+2012;vwo;12114;VWO geschiedenis (pilot) ;75;0,0
+2012;vwo;12115;VWO aardrijkskunde ;68;0,4
+2012;vwo;12116;VWO wiskunde A ;84;0,6
+2012;vwo;12117;VWO wiskunde A (pilot) ;81;1,4
+2012;vwo;12118;VWO wiskunde B ;78;1,5
+2012;vwo;12119;VWO wiskunde B (pilot) ;83;1,0
+2012;vwo;12120;VWO wiskunde C ;81;1,1
+2012;vwo;12121;VWO wiskunde C (pilot) ;79;1,8
+2012;vwo;12122;VWO natuurkunde ;77;1,1
+2012;vwo;12123;VWO natuurkunde (pilot) ;77;1,0
+2012;vwo;12124;VWO scheikunde ;70;0,5
+2012;vwo;12125;VWO scheikunde (pilot) ;71;1,7
+2012;vwo;12126;VWO biologie ;68;1,3
+2012;vwo;12127;VWO biologie (pilot) ;71;1,6
+2012;vwo;12128;VWO economie ;60;1,2
+2012;vwo;12129;VWO economie (pilot) ;62;1,9
+2012;vwo;12130;VWO management & organisatie ;63;0,9
+2012;vwo;12131;VWO muziek met audio-cd ;83;0,5
+2012;vwo;12132;VWO muziek CBT - ExamenTester ;83;0,6
+2012;vwo;12133;"VWO tekenen, handvaardigheid, textiele vormgeving 
+	CSE";67;1,2
+2012;vwo;12134;VWO filosofie ;50;0,5
+2012;vwo;12135;VWO maatschappijwetenschappen ;80;1,3
+2012;vwo;12137;"VWO kunst (dans/drama/muziek/beeldende vormgeving/algemeen) 
+	zowel CBT als Autoplay";62;0,4
+2013;vwo;13101;VWO Nederlands ;49;1,4
+2013;vwo;13103;VWO Fries ;42;1,2
+2013;vwo;13104;VWO Latijn ;76;0,0
+2013;vwo;13105;VWO Grieks ;76;0,7
+2013;vwo;13106;VWO Frans ;49;0,8
+2013;vwo;13107;VWO Duits ;50;0,0
+2013;vwo;13108;VWO Engels ;44;1,1
+2013;vwo;13109;VWO Spaans ;50;0,5
+2013;vwo;13110;VWO Russisch ;45;0,7
+2013;vwo;13111;VWO Turks ;55;0,7
+2013;vwo;13112;VWO Arabisch ;48;0,7
+2013;vwo;13113;VWO geschiedenis ;77;0,9
+2013;vwo;13114;VWO geschiedenis (pilot) ;77;0,0
+2013;vwo;13115;VWO aardrijkskunde ;69;0,9
+2013;vwo;13116;VWO wiskunde A ;83;1,2
+2013;vwo;13117;VWO wiskunde A (pilot) ;83;1,8
+2013;vwo;13118;VWO wiskunde B ;79;0,8
+2013;vwo;13119;VWO wiskunde B (pilot) ;78;1,2
+2013;vwo;13120;VWO wiskunde C ;79;1,0
+2013;vwo;13121;VWO wiskunde C (pilot) ;78;1,4
+2013;vwo;13122;VWO natuurkunde ;76;1,0
+2013;vwo;13123;VWO natuurkunde (pilot) ;79;1,7
+2013;vwo;13124;VWO scheikunde ;69;1,7
+2013;vwo;13125;VWO scheikunde (pilot) ;68;2,1
+2013;vwo;13126;VWO biologie  ;71;1,0
+2013;vwo;13127;VWO biologie (pilot) ;76;1,7
+2013;vwo;13128;VWO economie ;58;1,8
+2013;vwo;13129;VWO economie (pilot) ;58;1,1
+2013;vwo;13130;VWO management en organisatie ;62;1,2
+2013;vwo;13131;VWO muziek ;79;1,5
+2013;vwo;13133;VWO tekenen, handvaardigheid, textiele vormgeving ;70;1,0
+2013;vwo;13134;VWO filosofie ;56;0,9
+2013;vwo;13135;VWO maatschappijwetenschappen ;73;1,2
+2013;vwo;13136;VWO kunst (dans/drama/muziek/beeldende vormgeving/algemeen);64;0,8
+2014;vwo;14101;VWO Nederlands ;49;1,3
+2014;vwo;14102;VWO Fries;48;0,8
+2014;vwo;14103;VWO Latijn ;76;0,3
+2014;vwo;14104;VWO Grieks;76;0,2
+2014;vwo;14105;VWO Frans;50;0,3
+2014;vwo;14106;VWO Duits;48;0,2
+2014;vwo;14107;VWO Engels;49;0,4
+2014;vwo;14108;VWO Spaans;51;0,8
+2014;vwo;14109;VWO Russisch;51;0,7
+2014;vwo;14110;VWO Turks;53;0,7
+2014;vwo;14111;VWO Arabisch;45;0,7
+2014;vwo;14112;VWO geschiedenis;78;0,4
+2014;vwo;14113;VWO geschiedenis (pilot);79;0,0
+2014;vwo;14114;VWO aardrijkskunde;70;1,1
+2014;vwo;14115;VWO wiskunde A;82;1,1
+2014;vwo;14116;VWO wiskunde A (pilot);84;2,1
+2014;vwo;14117;VWO wiskunde B;76;1,0
+2014;vwo;14118;VWO wiskunde B (pilot);77;1,6
+2014;vwo;14119;VWO wiskunde C;79;1,4
+2014;vwo;14120;VWO wiskunde C (pilot);73;0,9
+2014;vwo;14121;VWO natuurkunde;73;0,4
+2014;vwo;14122;VWO natuurkunde (pilot);73;0,7
+2014;vwo;14123;VWO scheikunde;70;1,2
+2014;vwo;14124;VWO scheikunde (pilot);69;1,9
+2014;vwo;14125;VWO biologie;68;0,7
+2014;vwo;14126;VWO biologie (pilot);68;0,5
+2014;vwo;14127;VWO economie;57;0,9
+2014;vwo;14128;"
+	VWO economie (bezem) ";59;1,7
+2014;vwo;14129;VWO management & organisatie;63;1,5
+2014;vwo;14130;VWO muziek;77;0,5
+2014;vwo;14131;"VWO tekenen, handvaardigheid, textiele vormgeving 
+	CSE";75;1,0
+2014;vwo;14132;VWO filosofie;53;1,1
+2014;vwo;14133;VWO maatschappijwetenschappen;72;0,8
+2014;vwo;14134;VWO maatschappijwetenschappen (pilot);70;0,5
+2014;vwo;14135;"
+	VWO kunst (dans/drama/muziek/beeldende vormgeving/algemeen)";66;0,6
+2015;vwo;15101;VWO Nederlands;64;1,0
+2015;vwo;15102;VWO Fries;48;0,5
+2015;vwo;15103;VWO Latijn;76;1,6
+2015;vwo;15104;VWO Grieks;76;0,4
+2015;vwo;15105;VWO Frans;50;0,5
+2015;vwo;15106;VWO Duits;49;0,5
+2015;vwo;15107;VWO Engels;48;0,5
+2015;vwo;15108;VWO Spaans;51;0,0
+2015;vwo;15109;VWO Russisch;50;0,7
+2015;vwo;15110;VWO Turks;56;0,7
+2015;vwo;15111;VWO Arabisch;46;0,7
+2015;vwo;15112;VWO geschiedenis;76;1,0
+2015;vwo;15113;VWO aardrijkskunde;65;0,6
+2015;vwo;15114;VWO wiskunde A;85;0,8
+2015;vwo;15115;VWO wiskunde A (pilot);79;1,9
+2015;vwo;15116;VWO wiskunde B;77;1,4
+2015;vwo;15117;VWO wiskunde B (pilot);80;1,2
+2015;vwo;15118;VWO wiskunde C;81;0,7
+2015;vwo;15119;VWO wiskunde C (pilot);76;1,2
+2015;vwo;15120;VWO natuurkunde;75;0,9
+2015;vwo;15121;VWO natuurkunde (pilot);75;1,4
+2015;vwo;15122;VWO scheikunde;70;1,7
+2015;vwo;15123;VWO scheikunde (pilot);69;1,8
+2015;vwo;15124;VWO biologie;66;1,1
+2015;vwo;15125;VWO biologie (pilot);68;1,3
+2015;vwo;15126;VWO economie;53;0,8
+2015;vwo;15127;VWO management & organisatie;63;0,2
+2015;vwo;15128;VWO muziek;77;0,4
+2015;vwo;15129;VWO tekenen, handvaardigheid, textiele vormgeving;63;1,0
+2015;vwo;15130;VWO filosofie;45;0,9
+2015;vwo;15131;VWO maatschappijwetenschappen;71;0,7
+2015;vwo;15132;VWO maatschappijwetenschappen (pilot);68;1,4
+2015;vwo;15133;VWO kunstbeeldende vormgeving-dans-drama-muziek-algemeen;64;0,8
+2016;vwo;16101;VWO Nederlands;66;1,1
+2016;vwo;16102;VWO Fries;49;0,2
+2016;vwo;16103;VWO Latijn;74;1,1
+2016;vwo;16104;VWO Grieks;76;0,8
+2016;vwo;16105;VWO Frans;49;0,0
+2016;vwo;16106;VWO Duits;49;0,4
+2016;vwo;16107;VWO Engels;45;1,4
+2016;vwo;16108;VWO Spaans;50;0,7
+2016;vwo;16109;VWO Russisch;49;0,7
+2016;vwo;16110;VWO Turks;55;0,7
+2016;vwo;16111;VWO Arabisch;47;0,7
+2016;vwo;16112;VWO geschiedenis;74;0,7
+2016;vwo;16113;VWO aardrijkskunde;69;0,9
+2016;vwo;16114;VWO wiskunde A;83;0,9
+2016;vwo;16115;VWO wiskunde A (pilot);81;1,5
+2016;vwo;16116;VWO wiskunde B;77;2,0
+2016;vwo;16117;VWO wiskunde B (pilot);79;2,4
+2016;vwo;16118;VWO wiskunde C;77;1,0
+2016;vwo;16119;VWO wiskunde C (pilot);78;0,7
+2016;vwo;16120;VWO natuurkunde;76;1,7
+2016;vwo;16121;VWO natuurkunde (bezem);74;1,5
+2016;vwo;16122;VWO scheikunde;69;1,6
+2016;vwo;16123;VWO scheikunde (bezem);69;2,0
+2016;vwo;16124;VWO biologie;69;0,9
+2016;vwo;16125;VWO biologie (bezem);77;1,4
+2016;vwo;16126;VWO economie;46;0,6
+2016;vwo;16127;VWO management & organisatie;58;0,2
+2016;vwo;16128;VWO muziek;78;1,9
+2016;vwo;16129;VWO tekenen, handvaardigheid, textiele vormgeving CSE;67;1,3
+2016;vwo;16130;VWO filosofie;45;1,0
+2016;vwo;16131;VWO maatschappijwetenschappen;71;0,9
+2016;vwo;16132;VWO maatschappijwetenschappen (pilot);60;0,9
+2016;vwo;16133;VWO kunst (dans/drama/muziek/beeldende vormgeving/algemeen);65;0,5
+2017;vwo;17101;VWO Nederlands;72;1,2
+2017;vwo;17102;VWO Fries;44;0,5
+2017;vwo;17103;VWO Latijn;76;1,7
+2017;vwo;17104;VWO Grieks;76;1,2
+2017;vwo;17105;VWO Frans;51;0,5
+2017;vwo;17106;VWO Duits;49;0,5
+2017;vwo;17107;VWO Engels;48;1,5
+2017;vwo;17108;VWO Spaans;48;1,6
+2017;vwo;17109;VWO Russisch;49;0,7
+2017;vwo;17110;VWO Turks;57;0,7
+2017;vwo;17111;VWO Arabisch;49;0,7
+2017;vwo;17112;VWO geschiedenis;74;0,7
+2017;vwo;17113;VWO aardrijkskunde;68;1,0
+2017;vwo;17114;VWO wiskunde A;78;0,6
+2017;vwo;17115;VWO wiskunde A (pilot);84;2,1
+2017;vwo;17116;VWO wiskunde B;69;1,5
+2017;vwo;17117;VWO wiskunde B (pilot);71;1,9
+2017;vwo;17118;VWO wiskunde C;77;0,7
+2017;vwo;17119;VWO wiskunde C (pilot);79;1,1
+2017;vwo;17120;VWO natuurkunde;73;0,9
+2017;vwo;17121;VWO scheikunde;67;1,6
+2017;vwo;17122;VWO biologie;69;1,2
+2017;vwo;17123;VWO economie;53;1,2
+2017;vwo;17124;VWO management & organisatie;66;0,9
+2017;vwo;17125;VWO muziek;78;1,2
+2017;vwo;17126;VWO tekenen, handvaardigheid, textiele vormgeving;65;1,6
+2017;vwo;17127;VWO filosofie;45;0,8
+2017;vwo;17128;VWO maatschappijwetenschappen;67;0,5
+2017;vwo;17129;VWO maatschappijwetenschappen (pilot);52;0,5
+2017;vwo;17130;VWO kunst (dans/drama/muziek/beeldende vormgeving/algemeen);67;0,8
+2018;vwo;18101;VWO Nederlands;62;1,1
+2018;vwo;18102;VWO Fries;44;0,9
+2018;vwo;18103;VWO Latijn;76;1,1
+2018;vwo;18104;VWO Grieks;76;1,0
+2018;vwo;18105;VWO Frans;50;0,6
+2018;vwo;18106;VWO Duits;47;0,3
+2018;vwo;18107;VWO Engels;48;1,3
+2018;vwo;18108;VWO Spaans;50;1,4
+2018;vwo;18109;VWO Russisch;48;0,7
+2018;vwo;18110;VWO Turks;49;0,7
+2018;vwo;18111;VWO Arabisch;49;0,7
+2018;vwo;18112;VWO geschiedenis;71;0,9
+2018;vwo;18113;VWO aardrijkskunde;64;1,0
+2018;vwo;18114;VWO wiskunde A;78;0,6
+2018;vwo;18115;VWO wiskunde A (bezem);83;0,7
+2018;vwo;18116;VWO wiskunde B;73;0,9
+2018;vwo;18117;VWO wiskunde B (bezem);75;1,5
+2018;vwo;18118;VWO wiskunde C;78;0,6
+2018;vwo;18119;VWO wiskunde C (bezem);79;1,2
+2018;vwo;18120;VWO natuurkunde;72;1,3
+2018;vwo;18121;VWO scheikunde;67;1,7
+2018;vwo;18122;VWO biologie;74;0,8
+2018;vwo;18123;VWO economie;55;0,9
+2018;vwo;18124;VWO management & organisatie;66;1,3
+2018;vwo;18125;VWO muziek;83;1,1
+2018;vwo;18126;VWO tekenen, handvaardigheid, textiele vormgeving;63;1,1
+2018;vwo;18127;VWO filosofie;46;1,1
+2018;vwo;18128;VWO maatschappijwetenschappen;69;1,3
+2018;vwo;18129;VWO maatschappijwetenschappen (pilot);54;1,2
+2018;vwo;18130;VWO kunst beeldende vormgeving-dans-drama-muziek-algemeen;63;0,6
+2019;vwo;19101;VWO Nederlands;65;0,6
+2019;vwo;19102;VWO Fries;47;1,2
+2019;vwo;19103;VWO Latijnse taal en cultuur;76;2,0
+2019;vwo;19104;VWO Griekse taal en cultuur;76;0,9
+2019;vwo;19105;VWO Frans;49;1,1
+2019;vwo;19106;VWO Duits;50;1,0
+2019;vwo;19107;VWO Engels;45;0,7
+2019;vwo;19108;VWO Spaans;49;1,2
+2019;vwo;19109;VWO Russisch;49;0,7
+2019;vwo;19110;VWO Turks;48;0,7
+2019;vwo;19111;VWO Arabisch;45;0,7
+2019;vwo;19112;VWO geschiedenis;71;0,5
+2019;vwo;19113;VWO aardrijkskunde;63;1,3
+2019;vwo;19114;VWO wiskunde A;79;1,2
+2019;vwo;19115;VWO wiskunde B;80;1,8
+2019;vwo;19116;VWO wiskunde C;80;0,9
+2019;vwo;19117;VWO natuurkunde;73;1,0
+2019;vwo;19118;VWO scheikunde;67;1,6
+2019;vwo;19119;VWO biologie;71;0,9
+2019;vwo;19120;VWO economie;59;1,0
+2019;vwo;19121;VWO management & organisatie;63;1,3
+2019;vwo;19122;VWO muziek;81;0,9
+2019;vwo;19124;VWO tekenen, handvaardigheid, textiele vormgeving;64;0,9
+2019;vwo;19125;VWO filosofie;45;0,8
+2019;vwo;19126;VWO maatschappijwetenschappen;73;0,8
+2019;vwo;19127;VWO maatschappijwetenschappen (pilot);50;0,8
+2019;vwo;19128;VWO kunstbeeldende vormgeving-dans-drama-muziek-algemeen;66;1,0
