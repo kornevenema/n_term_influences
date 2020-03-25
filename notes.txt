@@ -1,2 +1,0 @@
-explain the empty cells and what is done with them.
-all data is now in the n-terms.csv file
