@@ -1,0 +1,764 @@
+YEAR;DEGREE;COURSE_NAME;LENGTH_SCORE_SCALE;N-TERM
+2012;VMBO BB;Nederlands;39;1.4
+2012;VMBO BB;Duits;38;0.6
+2012;VMBO BB;Engels;36;0.3
+2012;VMBO BB;Arabisch;37;1.0
+2012;VMBO BB;Turks;36;0.7
+2012;VMBO BB;Spaans;39;0.7
+2012;VMBO BB;economie;43;1.2
+2012;VMBO BB;maatschappijleer 2;44;1.1
+2012;VMBO BB;aardrijkskunde;52;1.0
+2012;VMBO BB;geschiedenis;51;1.2
+2012;VMBO BB;wiskunde;68;1.5
+2012;VMBO BB;natuur- en scheikunde 1;49;1.1
+2012;VMBO BB;biologie;39;1.1
+2013;VMBO BB;Nederlands;38;1.2
+2013;VMBO BB;Duits;37;0.6
+2013;VMBO BB;Engels;40;0.0
+2013;VMBO BB;Arabisch;39;1.0
+2013;VMBO BB;Turks;38;0.7
+2013;VMBO BB;Spaans;38;0.7
+2013;VMBO BB;economie;44;1.3
+2013;VMBO BB;maatschappijleer 2;45;1.3
+2013;VMBO BB;aardrijkskunde;43;1.0
+2013;VMBO BB;geschiedenis;46;1.2
+2013;VMBO BB;wiskunde;65;2.0
+2013;VMBO BB;natuur- en scheikunde 1;55;1.1
+2013;VMBO BB;biologie;44;0.8
+2014;VMBO BB;Nederlands;42;1.1
+2014;VMBO BB;Duits;35;0.6
+2014;VMBO BB;Engels;37;0.0
+2014;VMBO BB;Arabisch;35;1.0
+2014;VMBO BB;Turks;41;0.7
+2014;VMBO BB;Spaans;40;0.7
+2014;VMBO BB;economie;41;1.3
+2014;VMBO BB;maatschappijleer 2;45;1.1
+2014;VMBO BB;aardrijkskunde;47;1.1
+2014;VMBO BB;geschiedenis;47;1.2
+2014;VMBO BB;wiskunde;62;1.3
+2014;VMBO BB;natuur- en scheikunde 1;53;1.1
+2014;VMBO BB;biologie;40;1.3
+2015;VMBO BB;Nederlands;40;1.2
+2015;VMBO BB;Duits;39;0.6
+2015;VMBO BB;Engels;39;0.3
+2015;VMBO BB;Arabisch;40;1.0
+2015;VMBO BB;Turks;40;0.7
+2015;VMBO BB;Spaans;36;0.7
+2015;VMBO BB;economie;45;1.2
+2015;VMBO BB;maatschappijleer 2;42;1.1
+2015;VMBO BB;aardrijkskunde;49;1.9
+2015;VMBO BB;geschiedenis;56;1.2
+2015;VMBO BB;wiskunde;61;1.6
+2015;VMBO BB;natuur- en scheikunde 1;51;1.6
+2015;VMBO BB;biologie;41;1.9
+2016;VMBO BB;Nederlands;40;0.8
+2016;VMBO BB;Frans;37;1.0
+2016;VMBO BB;Duits;35;0.6
+2016;VMBO BB;Engels;40;0.0
+2016;VMBO BB;Arabisch;39;1.0
+2016;VMBO BB;Turks;35;0.7
+2016;VMBO BB;Spaans;36;0.7
+2016;VMBO BB;economie;50;0.6
+2016;VMBO BB;maatschappijleer 2;41;1.2
+2016;VMBO BB;aardrijkskunde;51;1.9
+2016;VMBO BB;geschiedenis;49;1.2
+2016;VMBO BB;wiskunde;59;2.0
+2016;VMBO BB;natuur- en scheikunde 1;49;2.0
+2016;VMBO BB;biologie;41;1.1
+2017;VMBO BB;Nederlands;40;0.9
+2017;VMBO BB;Frans;38;1.0
+2017;VMBO BB;Duits;39;1.2
+2017;VMBO BB;Engels;41;1.0
+2017;VMBO BB;Arabisch;39;1.0
+2017;VMBO BB;Turks;43;0.7
+2017;VMBO BB;Spaans;37;0.7
+2017;VMBO BB;economie;53;1.1
+2017;VMBO BB;maatschappijleer 2;41;1.3
+2017;VMBO BB;aardrijkskunde;51;2.1
+2017;VMBO BB;geschiedenis;52;1.2
+2017;VMBO BB;wiskunde;58;1.6
+2017;VMBO BB;natuur- en scheikunde 1;52;1.5
+2017;VMBO BB;biologie;43;1.7
+2018;VMBO BB;Nederlands;39;0.6
+2018;VMBO BB;Frans;38;1.0
+2018;VMBO BB;Duits;39;1.0
+2018;VMBO BB;Engels;39;0.9
+2018;VMBO BB;Arabisch;36;1.0
+2018;VMBO BB;Turks;42;0.7
+2018;VMBO BB;Spaans;36;1.2
+2018;VMBO BB;economie;46;1.4
+2018;VMBO BB;maatschappijkunde;44;1.4
+2018;VMBO BB;aardrijkskunde;51;1.9
+2018;VMBO BB;geschiedenis;49;1.8
+2018;VMBO BB;wiskunde;58;1.4
+2018;VMBO BB;natuur- en scheikunde 1;49;1.7
+2018;VMBO BB;biologie;43;2.0
+2019;VMBO BB;Nederlands;39;0.7
+2019;VMBO BB;Frans;39;1.0
+2019;VMBO BB;Duits;38;0.8
+2019;VMBO BB;Engels;42;0.8
+2019;VMBO BB;Arabisch;37;1.0
+2019;VMBO BB;Turks;42;0.7
+2019;VMBO BB;Spaans;36;0.7
+2019;VMBO BB;economie;42;1.0
+2019;VMBO BB;maatschappijkunde;45;1.6
+2019;VMBO BB;aardrijkskunde;51;2.4
+2019;VMBO BB;geschiedenis;51;2.0
+2019;VMBO BB;wiskunde;57;1.2
+2019;VMBO BB;natuur- en scheikunde 1;49;1.7
+2019;VMBO BB;biologie;43;1.3
+2012;VMBO KB;Nederlands;50;1.0
+2012;VMBO KB;Duits;43;1.2
+2012;VMBO KB;Engels;43;1.0
+2012;VMBO KB;Arabisch;48;1.0
+2012;VMBO KB;Turks;46;0.7
+2012;VMBO KB;Spaans;41;1.4
+2012;VMBO KB;economie;50;1.3
+2012;VMBO KB;maatschappijleer 2;56;2.1
+2012;VMBO KB;aardrijkskunde;59;1.0
+2012;VMBO KB;geschiedenis;57;1.2
+2012;VMBO KB;wiskunde;75;1.1
+2012;VMBO KB;natuur- en scheikunde 1;70;1.5
+2012;VMBO KB;biologie;59;0.5
+2013;VMBO KB;Nederlands;49;0.8
+2013;VMBO KB;Duits;44;1.5
+2013;VMBO KB;Engels;43;0.9
+2013;VMBO KB;Arabisch;49;1.0
+2013;VMBO KB;Turks;44;0.7
+2013;VMBO KB;Spaans;41;0.7
+2013;VMBO KB;economie;49;1.1
+2013;VMBO KB;maatschappijleer 2;56;1.3
+2013;VMBO KB;aardrijkskunde;61;1.3
+2013;VMBO KB;geschiedenis;55;1.4
+2013;VMBO KB;wiskunde;75;1.2
+2013;VMBO KB;natuur- en scheikunde 1;65;0.9
+2013;VMBO KB;biologie;60;0.3
+2014;VMBO KB;Nederlands;51;1.2
+2014;VMBO KB;Duits;45;1.3
+2014;VMBO KB;Engels;43;0.6
+2014;VMBO KB;Arabisch;47;1.0
+2014;VMBO KB;Turks;48;0.7
+2014;VMBO KB;Spaans;44;2.1
+2014;VMBO KB;economie;50;1.1
+2014;VMBO KB;maatschappijleer 2;57;0.9
+2014;VMBO KB;aardrijkskunde;56;1.7
+2014;VMBO KB;geschiedenis;54;1.4
+2014;VMBO KB;wiskunde;75;0.9
+2014;VMBO KB;natuur- en scheikunde 1;70;1.8
+2014;VMBO KB;biologie;59;0.3
+2015;VMBO KB;Nederlands;50;0.1
+2015;VMBO KB;Duits;44;1.4
+2015;VMBO KB;Engels;45;0.1
+2015;VMBO KB;Arabisch;46;1.0
+2015;VMBO KB;Turks;45;0.7
+2015;VMBO KB;Spaans;40;2.1
+2015;VMBO KB;economie;53;1.1
+2015;VMBO KB;maatschappijleer 2;56;1.5
+2015;VMBO KB;aardrijkskunde;55;1.8
+2015;VMBO KB;geschiedenis;54;1.4
+2015;VMBO KB;wiskunde;75;1.0
+2015;VMBO KB;natuur- en scheikunde 1;68;1.3
+2015;VMBO KB;biologie;60;0.5
+2016;VMBO KB;Nederlands;52;1.1
+2016;VMBO KB;Frans;42;0.9
+2016;VMBO KB;Duits;46;1.5
+2016;VMBO KB;Engels;45;0.4
+2016;VMBO KB;Arabisch;46;1.0
+2016;VMBO KB;Turks;44;0.7
+2016;VMBO KB;Spaans;43;1.2
+2016;VMBO KB;economie;45;1.2
+2016;VMBO KB;maatschappijleer 2;55;1.7
+2016;VMBO KB;aardrijkskunde;54;2.3
+2016;VMBO KB;geschiedenis;57;1.4
+2016;VMBO KB;wiskunde;75;0.5
+2016;VMBO KB;natuur- en scheikunde 1;70;1.7
+2016;VMBO KB;biologie;58;0.6
+2017;VMBO KB;Nederlands;51;0.7
+2017;VMBO KB;Frans;43;0.9
+2017;VMBO KB;Duits;43;0.5
+2017;VMBO KB;Engels;45;0.8
+2017;VMBO KB;Arabisch;49;1.0
+2017;VMBO KB;Turks;52;0.7
+2017;VMBO KB;Spaans;45;1.4
+2017;VMBO KB;economie;49;1.0
+2017;VMBO KB;maatschappijleer 2;54;1.0
+2017;VMBO KB;aardrijkskunde;55;1.8
+2017;VMBO KB;geschiedenis;60;0.6
+2017;VMBO KB;wiskunde;74;1.1
+2017;VMBO KB;natuur- en scheikunde 1;68;0.8
+2017;VMBO KB;biologie;63;1.0
+2018;VMBO KB;Nederlands;51;0.1
+2018;VMBO KB;Frans;44;0.9
+2018;VMBO KB;Duits;45;1.4
+2018;VMBO KB;Engels;45;1.7
+2018;VMBO KB;Arabisch;48;1.0
+2018;VMBO KB;Turks;43;0.7
+2018;VMBO KB;Spaans;43;1.5
+2018;VMBO KB;economie;50;0.5
+2018;VMBO KB;maatschappijkunde;55;0.9
+2018;VMBO KB;aardrijkskunde;53;1.5
+2018;VMBO KB;geschiedenis;58;1.5
+2018;VMBO KB;wiskunde;74;1.0
+2018;VMBO KB;natuur- en scheikunde 1;67;1.5
+2018;VMBO KB;biologie;54;1.3
+2019;VMBO KB;Nederlands;52;0.6
+2019;VMBO KB;Frans;43;0.9
+2019;VMBO KB;Duits;45;1.2
+2019;VMBO KB;Engels;45;1.0
+2019;VMBO KB;Arabisch;48;1.5
+2019;VMBO KB;Turks;47;0.7
+2019;VMBO KB;Spaans;44;1.3
+2019;VMBO KB;economie;51;1.4
+2019;VMBO KB;maatschappijkunde;56;0.9
+2019;VMBO KB;aardrijkskunde;54;0.9
+2019;VMBO KB;geschiedenis;58;1.3
+2019;VMBO KB;wiskunde;75;0.8
+2019;VMBO KB;natuur- en scheikunde 1;66;1.4
+2019;VMBO KB;biologie;58;0.8
+2012;VMBO GL en TL;Nederlands;51;0.5
+2012;VMBO GL en TL;Fries;53;0.9
+2012;VMBO GL en TL;Frans;48;1.2
+2012;VMBO GL en TL;Duits;48;0.9
+2012;VMBO GL en TL;Engels;48;0.3
+2012;VMBO GL en TL;Arabisch;47;1.0
+2012;VMBO GL en TL;Turks;52;0.5
+2012;VMBO GL en TL;Spaans;42;2.0
+2012;VMBO GL en TL;economie;57;0.6
+2012;VMBO GL en TL;maatschappijleer 2;65;1.4
+2012;VMBO GL en TL;aardrijkskunde;62;1.1
+2012;VMBO GL en TL;geschiedenis;63;0.3
+2012;VMBO GL en TL;wiskunde;75;1.0
+2012;VMBO GL en TL;natuur- en scheikunde 1;76;1.0
+2012;VMBO GL en TL;natuur- en scheikunde 2;67;0.8
+2012;VMBO GL en TL;biologie;65;0.3
+2012;VMBO GL en TL;beeldende vakken;73;0.6
+2013;VMBO GL en TL;Nederlands;50;0.2
+2013;VMBO GL en TL;Fries;52;0.7
+2013;VMBO GL en TL;Frans;46;0.7
+2013;VMBO GL en TL;Duits;47;0.2
+2013;VMBO GL en TL;Engels;42;0.3
+2013;VMBO GL en TL;Arabisch;47;1.0
+2013;VMBO GL en TL;Turks;53;0.5
+2013;VMBO GL en TL;Spaans;44;1.3
+2013;VMBO GL en TL;economie;58;0.8
+2013;VMBO GL en TL;maatschappijleer 2;60;1.3
+2013;VMBO GL en TL;aardrijkskunde;64;0.8
+2013;VMBO GL en TL;geschiedenis;64;1.2
+2013;VMBO GL en TL;wiskunde;77;0.6
+2013;VMBO GL en TL;natuur- en scheikunde 1;71;0.5
+2013;VMBO GL en TL;natuur- en scheikunde 2;70;0.2
+2013;VMBO GL en TL;biologie;60;0.5
+2013;VMBO GL en TL;beeldende vakken;71;1.1
+2013;VMBO GL en TL;muziek;66;0.9
+2013;VMBO GL en TL;dans;73;0.5
+2013;VMBO GL en TL;drama;67;0.7
+2014;VMBO GL en TL;Nederlands;50;0.4
+2014;VMBO GL en TL;Fries;48;0.2
+2014;VMBO GL en TL;Frans;47;1.6
+2014;VMBO GL en TL;Duits;46;0.0
+2014;VMBO GL en TL;Engels;48;1.1
+2014;VMBO GL en TL;Arabisch;49;1.0
+2014;VMBO GL en TL;Turks;52;0.5
+2014;VMBO GL en TL;Spaans;48;1.7
+2014;VMBO GL en TL;economie;64;1.4
+2014;VMBO GL en TL;maatschappijleer 2;63;1.3
+2014;VMBO GL en TL;aardrijkskunde;64;0.9
+2014;VMBO GL en TL;geschiedenis;64;1.5
+2014;VMBO GL en TL;wiskunde;76;0.9
+2014;VMBO GL en TL;natuur- en scheikunde 1;82;1.0
+2014;VMBO GL en TL;natuur- en scheikunde 2;66;0.8
+2014;VMBO GL en TL;biologie;60;0.2
+2014;VMBO GL en TL;beeldende vakken;71;0.9
+2014;VMBO GL en TL;muziek;61;1.1
+2014;VMBO GL en TL;dans;62;0.7
+2014;VMBO GL en TL;drama;60;0.0
+2015;VMBO GL en TL;Nederlands;49;0.2
+2015;VMBO GL en TL;Fries;48;0.0
+2015;VMBO GL en TL;Frans;45;1.4
+2015;VMBO GL en TL;Duits;48;1.4
+2015;VMBO GL en TL;Engels;44;0.6
+2015;VMBO GL en TL;Arabisch;47;1.0
+2015;VMBO GL en TL;Turks;53;0.5
+2015;VMBO GL en TL;Spaans;46;1.7
+2015;VMBO GL en TL;economie;57;1.2
+2015;VMBO GL en TL;maatschappijleer 2;62;1.4
+2015;VMBO GL en TL;aardrijkskunde;58;0.8
+2015;VMBO GL en TL;geschiedenis;65;0.9
+2015;VMBO GL en TL;wiskunde;76;1.0
+2015;VMBO GL en TL;natuur- en scheikunde 1;77;1.4
+2015;VMBO GL en TL;natuur- en scheikunde 2;67;0.8
+2015;VMBO GL en TL;biologie;66;0.7
+2015;VMBO GL en TL;beeldende vakken;70;0.7
+2015;VMBO GL en TL;muziek;66;1.5
+2015;VMBO GL en TL;dans;60;1.3
+2015;VMBO GL en TL;drama;63;0.7
+2016;VMBO GL en TL;Nederlands;53;0.9
+2016;VMBO GL en TL;Fries;48;0.0
+2016;VMBO GL en TL;Frans;47;0.8
+2016;VMBO GL en TL;Duits;45;1.3
+2016;VMBO GL en TL;Engels;45;0.5
+2016;VMBO GL en TL;Arabisch;50;1.0
+2016;VMBO GL en TL;Turks;50;0.5
+2016;VMBO GL en TL;Spaans;44;1.7
+2016;VMBO GL en TL;economie;56;0.9
+2016;VMBO GL en TL;maatschappijleer 2;63;1.6
+2016;VMBO GL en TL;aardrijkskunde;57;1.3
+2016;VMBO GL en TL;geschiedenis;65;0.9
+2016;VMBO GL en TL;wiskunde;77;0.7
+2016;VMBO GL en TL;natuur- en scheikunde 1;76;1.3
+2016;VMBO GL en TL;natuur- en scheikunde 2;68;1.2
+2016;VMBO GL en TL;biologie;65;0.9
+2016;VMBO GL en TL;beeldende vakken;63;1.0
+2016;VMBO GL en TL;muziek;67;1.8
+2016;VMBO GL en TL;dans;67;1.5
+2016;VMBO GL en TL;drama;59;1.0
+2017;VMBO GL en TL;Nederlands;51;0.3
+2017;VMBO GL en TL;Fries;47;0.0
+2017;VMBO GL en TL;Frans;49;1.2
+2017;VMBO GL en TL;Duits;48;1.0
+2017;VMBO GL en TL;Engels;46;1.4
+2017;VMBO GL en TL;Arabisch;49;1.0
+2017;VMBO GL en TL;Turks;53;0.5
+2017;VMBO GL en TL;Spaans;45;1.8
+2017;VMBO GL en TL;economie;55;0.5
+2017;VMBO GL en TL;maatschappijleer 2;61;1.5
+2017;VMBO GL en TL;aardrijkskunde;58;0.7
+2017;VMBO GL en TL;geschiedenis;65;0.9
+2017;VMBO GL en TL;wiskunde;76;0.8
+2017;VMBO GL en TL;natuur- en scheikunde 1;76;1.2
+2017;VMBO GL en TL;natuur- en scheikunde 2;67;1.4
+2017;VMBO GL en TL;biologie;66;0.8
+2017;VMBO GL en TL;beeldende vakken;65;0.5
+2017;VMBO GL en TL;muziek;68;0.9
+2017;VMBO GL en TL;dans;64;0.7
+2017;VMBO GL en TL;drama;61;0.0
+2018;VMBO GL en TL;Nederlands;51;0.3
+2018;VMBO GL en TL;Fries;46;0.0
+2018;VMBO GL en TL;Frans;49;0.9
+2018;VMBO GL en TL;Duits;47;0.8
+2018;VMBO GL en TL;Engels;45;0.9
+2018;VMBO GL en TL;Arabisch;49;1.0
+2018;VMBO GL en TL;Turks;46;0.5
+2018;VMBO GL en TL;Spaans;45;1.1
+2018;VMBO GL en TL;economie;54;0.7
+2018;VMBO GL en TL;maatschappijkunde;61;1.5
+2018;VMBO GL en TL;aardrijkskunde;57;1.2
+2018;VMBO GL en TL;geschiedenis;64;0.9
+2018;VMBO GL en TL;wiskunde;78;1.0
+2018;VMBO GL en TL;natuur- en scheikunde 1;76;0.9
+2018;VMBO GL en TL;natuur- en scheikunde 2;68;1.8
+2018;VMBO GL en TL;biologie;64;0.7
+2018;VMBO GL en TL;beeldende vakken;63;0.6
+2018;VMBO GL en TL;muziek;67;0.5
+2018;VMBO GL en TL;dans;64;0.5
+2018;VMBO GL en TL;drama;58;0.2
+2019;VMBO GL en TL;Nederlands;50;0.4
+2019;VMBO GL en TL;Fries;51;0.3
+2019;VMBO GL en TL;Frans;50;1.9
+2019;VMBO GL en TL;Duits;46;1.2
+2019;VMBO GL en TL;Engels;46;1.3
+2019;VMBO GL en TL;Arabisch;47;1.0
+2019;VMBO GL en TL;Turks;50;0.5
+2019;VMBO GL en TL;Spaans;45;1.1
+2019;VMBO GL en TL;economie;58;1.1
+2019;VMBO GL en TL;maatschappijkunde;61;1.4
+2019;VMBO GL en TL;aardrijkskunde;57;1.0
+2019;VMBO GL en TL;geschiedenis;65;1.1
+2019;VMBO GL en TL;wiskunde;70;1.0
+2019;VMBO GL en TL;natuur- en scheikunde 1;77;1.0
+2019;VMBO GL en TL;natuur- en scheikunde 2;67;1.6
+2019;VMBO GL en TL;biologie;65;0.8
+2019;VMBO GL en TL;beeldende vakken;66;0.5
+2019;VMBO GL en TL;muziek;66;1.1
+2019;VMBO GL en TL;dans;62;0.5
+2019;VMBO GL en TL;drama;60;1.2
+2012;HAVO;Nederlands;50;1.1
+2012;HAVO;Fries;50;0.6
+2012;HAVO;Frans;49;1.3
+2012;HAVO;Duits;50;0.2
+2012;HAVO;Engels;55;0.4
+2012;HAVO;Spaans;45;1.7
+2012;HAVO;Russisch;48;0.7
+2012;HAVO;Turks;52;0.7
+2012;HAVO;Arabisch;45;0.7
+2012;HAVO;geschiedenis;75;1.6
+2012;HAVO;aardrijkskunde;61;0.7
+2012;HAVO;wiskunde A;84;1.1
+2012;HAVO;wiskunde B;80;1.2
+2012;HAVO;natuurkunde;76;1.2
+2012;HAVO;scheikunde;79;1.1
+2012;HAVO;biologie;82;1.0
+2012;HAVO;economie;54;1.2
+2012;HAVO;management en organisatie;61;1.9
+2012;HAVO;muziek;75;1.1
+2012;HAVO;tekenen, handvaardigheid, textiele vormgeving;85;1.2
+2012;HAVO;filosofie;45;1.4
+2012;HAVO;maatschappijwetenschappen;75;1.2
+2013;HAVO;Nederlands;47;1.1
+2013;HAVO;Fries;46;0.5
+2013;HAVO;Frans;50;1.0
+2013;HAVO;Duits;49;0.2
+2013;HAVO;Engels;47;0.3
+2013;HAVO;Spaans;45;1.3
+2013;HAVO;Russisch;46;0.7
+2013;HAVO;Turks;54;0.7
+2013;HAVO;Arabisch;50;0.7
+2013;HAVO;geschiedenis;75;1.6
+2013;HAVO;aardrijkskunde;68;1.2
+2013;HAVO;wiskunde A;79;0.5
+2013;HAVO;wiskunde B;80;0.8
+2013;HAVO;natuurkunde;74;1.3
+2013;HAVO;scheikunde;78;1.5
+2013;HAVO;biologie;79;1.2
+2013;HAVO;economie;56;1.5
+2013;HAVO;management en organisatie;61;1.7
+2013;HAVO;muziek;74;1.1
+2013;HAVO;tekenen, handvaardigheid, textiele vormgeving;80;1.5
+2013;HAVO;filosofie;44;1.0
+2013;HAVO;maatschappijwetenschappen;74;1.4
+2013;HAVO;kunst;64;1.2
+2014;HAVO;Nederlands;45;1.2
+2014;HAVO;Fries;44;0.0
+2014;HAVO;Frans;49;0.4
+2014;HAVO;Duits;48;0.4
+2014;HAVO;Engels;47;0.0
+2014;HAVO;Spaans;48;1.5
+2014;HAVO;Russisch;51;0.7
+2014;HAVO;Turks;53;0.7
+2014;HAVO;Arabisch;46;0.7
+2014;HAVO;geschiedenis;76;1.7
+2014;HAVO;aardrijkskunde;64;1.3
+2014;HAVO;wiskunde A;80;1.1
+2014;HAVO;wiskunde B;78;1.4
+2014;HAVO;natuurkunde;81;1.3
+2014;HAVO;scheikunde;76;1.4
+2014;HAVO;biologie;80;0.8
+2014;HAVO;economie;61;1.1
+2014;HAVO;management en organisatie;61;0.6
+2014;HAVO;muziek;73;0.9
+2014;HAVO;tekenen, handvaardigheid, textiele vormgeving;80;1.4
+2014;HAVO;filosofie;44;1.8
+2014;HAVO;maatschappijwetenschappen;73;1.7
+2014;HAVO;kunst;63;1.3
+2015;HAVO;Nederlands;63;1.1
+2015;HAVO;Fries;45;0.0
+2015;HAVO;Frans;50;0.0
+2015;HAVO;Duits;51;1.0
+2015;HAVO;Engels;47;0.5
+2015;HAVO;Spaans;47;1.0
+2015;HAVO;Russisch;49;0.7
+2015;HAVO;Turks;55;0.7
+2015;HAVO;Arabisch;46;0.7
+2015;HAVO;geschiedenis;75;1.1
+2015;HAVO;aardrijkskunde;64;1.0
+2015;HAVO;wiskunde A;83;1.0
+2015;HAVO;wiskunde B;80;1.2
+2015;HAVO;natuurkunde;77;1.2
+2015;HAVO;scheikunde;77;1.8
+2015;HAVO;biologie;78;0.7
+2015;HAVO;economie;58;1.8
+2015;HAVO;management en organisatie;59;0.5
+2015;HAVO;muziek;78;0.9
+2015;HAVO;tekenen, handvaardigheid, textiele vormgeving;80;1.4
+2015;HAVO;filosofie;42;1.6
+2015;HAVO;maatschappijwetenschappen;77;1.3
+2015;HAVO;kunst;72;1.4
+2016;HAVO;Nederlands;57;0.9
+2016;HAVO;Fries;46;0.0
+2016;HAVO;Frans;49;0.0
+2016;HAVO;Duits;50;0.5
+2016;HAVO;Engels;48;1.1
+2016;HAVO;Spaans;45;1.2
+2016;HAVO;Russisch;49;0.7
+2016;HAVO;Turks;56;1.0
+2016;HAVO;Arabisch;49;0.7
+2016;HAVO;geschiedenis;73;1.3
+2016;HAVO;aardrijkskunde;63;1.0
+2016;HAVO;wiskunde A;79;1.0
+2016;HAVO;wiskunde B;77;1.5
+2016;HAVO;natuurkunde;79;1.2
+2016;HAVO;scheikunde;77;1.7
+2016;HAVO;biologie;77;1.0
+2016;HAVO;economie;52;1.4
+2016;HAVO;management en organisatie;58;0.8
+2016;HAVO;muziek;75;1.4
+2016;HAVO;tekenen, handvaardigheid, textiele vormgeving;85;1.8
+2016;HAVO;filosofie;45;1.4
+2016;HAVO;maatschappijwetenschappen;71;0.7
+2016;HAVO;kunst;66;1.0
+2017;HAVO;Nederlands;61;1.6
+2017;HAVO;Fries;46;0.0
+2017;HAVO;Frans;48;0.0
+2017;HAVO;Duits;50;0.2
+2017;HAVO;Engels;49;1.4
+2017;HAVO;Spaans;46;1.3
+2017;HAVO;Russisch;48;0.7
+2017;HAVO;Turks;51;0.7
+2017;HAVO;Arabisch;45;0.7
+2017;HAVO;geschiedenis;71;0.7
+2017;HAVO;aardrijkskunde;63;1.1
+2017;HAVO;wiskunde A;80;1.5
+2017;HAVO;wiskunde B;79;1.8
+2017;HAVO;natuurkunde;76;1.2
+2017;HAVO;scheikunde;76;1.2
+2017;HAVO;biologie;75;0.9
+2017;HAVO;economie;48;1.6
+2017;HAVO;management en organisatie;59;0.3
+2017;HAVO;muziek;75;1.1
+2017;HAVO;tekenen, handvaardigheid, textiele vormgeving;79;0.8
+2017;HAVO;filosofie;46;1.4
+2017;HAVO;maatschappijwetenschappen;60;1.0
+2017;HAVO;kunst;66;0.8
+2018;HAVO;Nederlands;60;0.7
+2018;HAVO;Fries;42;0.2
+2018;HAVO;Frans;49;0.4
+2018;HAVO;Duits;50;0.6
+2018;HAVO;Engels;47;1.4
+2018;HAVO;Spaans;50;1.9
+2018;HAVO;Russisch;50;0.7
+2018;HAVO;Turks;48;0.7
+2018;HAVO;Arabisch;47;0.7
+2018;HAVO;geschiedenis;72;1.0
+2018;HAVO;aardrijkskunde;66;1.6
+2018;HAVO;wiskunde A;76;1.2
+2018;HAVO;wiskunde B;77;1.2
+2018;HAVO;natuurkunde;75;0.6
+2018;HAVO;scheikunde;76;1.0
+2018;HAVO;biologie;79;0.9
+2018;HAVO;economie;59;1.3
+2018;HAVO;management en organisatie;62;0.8
+2018;HAVO;muziek;74;1.1
+2018;HAVO;tekenen, handvaardigheid, textiele vormgeving;77;0.9
+2018;HAVO;filosofie;45;1.5
+2018;HAVO;maatschappijwetenschappen;66;1.3
+2018;HAVO;kunst;64;1.3
+2019;HAVO;Nederlands;63;1.0
+2019;HAVO;Fries;47;0.0
+2019;HAVO;Frans;50;1.2
+2019;HAVO;Duits;52;0.2
+2019;HAVO;Engels;47;1.2
+2019;HAVO;Spaans;49;0.8
+2019;HAVO;Russisch;49;0.7
+2019;HAVO;Turks;49;0.7
+2019;HAVO;Arabisch;46;0.7
+2019;HAVO;geschiedenis;71;1.1
+2019;HAVO;aardrijkskunde;64;1.1
+2019;HAVO;wiskunde A;78;1.0
+2019;HAVO;wiskunde B;78;1.5
+2019;HAVO;natuurkunde;78;1.3
+2019;HAVO;scheikunde;78;1.3
+2019;HAVO;biologie;77;0.8
+2019;HAVO;economie;56;1.0
+2019;HAVO;management en organisatie;62;1.2
+2019;HAVO;muziek;71;1.8
+2019;HAVO;tekenen, handvaardigheid, textiele vormgeving;70;0.7
+2019;HAVO;filosofie;45;1.3
+2019;HAVO;maatschappijwetenschappen;50;1.0
+2019;HAVO;kunst;65;1.0
+2012;VWO;Nederlands;49;0.9
+2012;VWO;Fries;51;1.7
+2012;VWO;Latijn;74;1.0
+2012;VWO;Grieks;76;0.3
+2012;VWO;Frans;50;1.5
+2012;VWO;Duits;55;1.2
+2012;VWO;Engels;48;0.6
+2012;VWO;Spaans;50;0.4
+2012;VWO;Russisch;49;0.7
+2012;VWO;Turks;53;0.7
+2012;VWO;Arabisch;46;0.7
+2012;VWO;geschiedenis;75;0.6
+2012;VWO;aardrijkskunde;68;0.4
+2012;VWO;wiskunde A;84;0.6
+2012;VWO;wiskunde B;78;1.5
+2012;VWO;wiskunde C;81;1.1
+2012;VWO;natuurkunde;77;1.1
+2012;VWO;scheikunde;70;0.5
+2012;VWO;biologie;68;1.3
+2012;VWO;economie;60;1.2
+2012;VWO;management en organisatie;63;0.9
+2012;VWO;muziek;83;0.5
+2012;VWO;tekenen, handvaardigheid, textiele vormgeving;67;1.2
+2012;VWO;filosofie;50;0.5
+2012;VWO;maatschappijwetenschappen;80;1.3
+2013;VWO;Nederlands;49;1.4
+2013;VWO;Fries;42;1.2
+2013;VWO;Latijn;76;0.0
+2013;VWO;Grieks;76;0.7
+2013;VWO;Frans;49;0.8
+2013;VWO;Duits;50;0.0
+2013;VWO;Engels;44;1.1
+2013;VWO;Spaans;50;0.5
+2013;VWO;Russisch;45;0.7
+2013;VWO;Turks;55;0.7
+2013;VWO;Arabisch;48;0.7
+2013;VWO;geschiedenis;77;0.9
+2013;VWO;aardrijkskunde;69;0.9
+2013;VWO;wiskunde A;83;1.2
+2013;VWO;wiskunde B;79;0.8
+2013;VWO;wiskunde C;79;1.0
+2013;VWO;natuurkunde;76;1.0
+2013;VWO;scheikunde;69;1.7
+2013;VWO;biologie;71;1.0
+2013;VWO;economie;58;1.8
+2013;VWO;management en organisatie;62;1.2
+2013;VWO;muziek;79;1.5
+2013;VWO;tekenen, handvaardigheid, textiele vormgeving;70;1.0
+2013;VWO;filosofie;56;0.9
+2013;VWO;maatschappijwetenschappen;73;1.2
+2013;VWO;kunst;64;0.8
+2014;VWO;Nederlands;49;1.3
+2014;VWO;Fries;48;0.8
+2014;VWO;Latijn;76;0.3
+2014;VWO;Grieks;76;0.2
+2014;VWO;Frans;50;0.3
+2014;VWO;Duits;48;0.2
+2014;VWO;Engels;49;0.4
+2014;VWO;Spaans;51;0.8
+2014;VWO;Russisch;51;0.7
+2014;VWO;Turks;53;0.7
+2014;VWO;Arabisch;45;0.7
+2014;VWO;geschiedenis;78;0.4
+2014;VWO;aardrijkskunde;70;1.1
+2014;VWO;wiskunde A;82;1.1
+2014;VWO;wiskunde B;76;1.0
+2014;VWO;wiskunde C;79;1.4
+2014;VWO;natuurkunde;73;0.4
+2014;VWO;scheikunde;70;1.2
+2014;VWO;biologie;68;0.7
+2014;VWO;economie;57;0.9
+2014;VWO;management en organisatie;63;1.5
+2014;VWO;muziek;77;0.5
+2014;VWO;tekenen, handvaardigheid, textiele vormgeving;75;1.0
+2014;VWO;filosofie;53;1.1
+2014;VWO;maatschappijwetenschappen;72;0.8
+2014;VWO;kunst;66;0.6
+2015;VWO;Nederlands;64;1.0
+2015;VWO;Fries;48;0.5
+2015;VWO;Latijn;76;1.6
+2015;VWO;Grieks;76;0.4
+2015;VWO;Frans;50;0.5
+2015;VWO;Duits;49;0.5
+2015;VWO;Engels;48;0.5
+2015;VWO;Spaans;51;0.0
+2015;VWO;Russisch;50;0.7
+2015;VWO;Turks;56;0.7
+2015;VWO;Arabisch;46;0.7
+2015;VWO;geschiedenis;76;1.0
+2015;VWO;aardrijkskunde;65;0.6
+2015;VWO;wiskunde A;85;0.8
+2015;VWO;wiskunde B;77;1.4
+2015;VWO;wiskunde C;81;0.7
+2015;VWO;natuurkunde;75;0.9
+2015;VWO;scheikunde;70;1.7
+2015;VWO;biologie;66;1.1
+2015;VWO;economie;53;0.8
+2015;VWO;management en organisatie;63;0.2
+2015;VWO;muziek;77;0.4
+2015;VWO;tekenen, handvaardigheid, textiele vormgeving;63;1.0
+2015;VWO;filosofie;45;0.9
+2015;VWO;maatschappijwetenschappen;71;0.7
+2015;VWO;kunst;64;0.8
+2016;VWO;Nederlands;66;1.1
+2016;VWO;Fries;49;0.2
+2016;VWO;Latijn;74;1.1
+2016;VWO;Grieks;76;0.8
+2016;VWO;Frans;49;0.0
+2016;VWO;Duits;49;0.4
+2016;VWO;Engels;45;1.4
+2016;VWO;Spaans;50;0.7
+2016;VWO;Russisch;49;0.7
+2016;VWO;Turks;55;0.7
+2016;VWO;Arabisch;47;0.7
+2016;VWO;geschiedenis;74;0.7
+2016;VWO;aardrijkskunde;69;0.9
+2016;VWO;wiskunde A;83;0.9
+2016;VWO;wiskunde B;77;2.0
+2016;VWO;wiskunde C;77;1.0
+2016;VWO;natuurkunde;76;1.7
+2016;VWO;scheikunde;69;1.6
+2016;VWO;biologie;69;0.9
+2016;VWO;economie;46;0.6
+2016;VWO;management en organisatie;58;0.2
+2016;VWO;muziek;78;1.9
+2016;VWO;tekenen, handvaardigheid, textiele vormgeving;67;1.3
+2016;VWO;filosofie;45;1.0
+2016;VWO;maatschappijwetenschappen;71;0.9
+2016;VWO;kunst;65;0.5
+2017;VWO;Nederlands;72;1.2
+2017;VWO;Fries;44;0.5
+2017;VWO;Latijn;76;1.7
+2017;VWO;Grieks;76;1.2
+2017;VWO;Frans;51;0.5
+2017;VWO;Duits;49;0.5
+2017;VWO;Engels;48;1.5
+2017;VWO;Spaans;48;1.6
+2017;VWO;Russisch;49;0.7
+2017;VWO;Turks;57;0.7
+2017;VWO;Arabisch;49;0.7
+2017;VWO;geschiedenis;74;0.7
+2017;VWO;aardrijkskunde;68;1.0
+2017;VWO;wiskunde A;78;0.6
+2017;VWO;wiskunde B;69;1.5
+2017;VWO;wiskunde C;77;0.7
+2017;VWO;natuurkunde;73;0.9
+2017;VWO;scheikunde;67;1.6
+2017;VWO;biologie;69;1.2
+2017;VWO;economie;53;1.2
+2017;VWO;management en organisatie;66;0.9
+2017;VWO;muziek;78;1.2
+2017;VWO;tekenen, handvaardigheid, textiele vormgeving;65;1.6
+2017;VWO;filosofie;45;0.8
+2017;VWO;maatschappijwetenschappen;67;0.5
+2017;VWO;kunst;67;0.8
+2018;VWO;Nederlands;62;1.1
+2018;VWO;Fries;44;0.9
+2018;VWO;Latijn;76;1.1
+2018;VWO;Grieks;76;1.0
+2018;VWO;Frans;50;0.6
+2018;VWO;Duits;47;0.3
+2018;VWO;Engels;48;1.3
+2018;VWO;Spaans;50;1.4
+2018;VWO;Russisch;48;0.7
+2018;VWO;Turks;49;0.7
+2018;VWO;Arabisch;49;0.7
+2018;VWO;geschiedenis;71;0.9
+2018;VWO;aardrijkskunde;64;1.0
+2018;VWO;wiskunde A;78;0.6
+2018;VWO;wiskunde B;73;0.9
+2018;VWO;wiskunde C;78;0.6
+2018;VWO;natuurkunde;72;1.3
+2018;VWO;scheikunde;67;1.7
+2018;VWO;biologie;74;0.8
+2018;VWO;economie;55;0.9
+2018;VWO;management en organisatie;66;1.3
+2018;VWO;muziek;83;1.1
+2018;VWO;tekenen, handvaardigheid, textiele vormgeving;63;1.1
+2018;VWO;filosofie;46;1.1
+2018;VWO;maatschappijwetenschappen;69;1.3
+2018;VWO;kunst;63;0.6
+2019;VWO;Nederlands;65;0.6
+2019;VWO;Fries;47;1.2
+2019;VWO;Latijn;76;2.0
+2019;VWO;Grieks;76;0.9
+2019;VWO;Frans;49;1.1
+2019;VWO;Duits;50;1.0
+2019;VWO;Engels;45;0.7
+2019;VWO;Spaans;49;1.2
+2019;VWO;Russisch;49;0.7
+2019;VWO;Turks;48;0.7
+2019;VWO;Arabisch;45;0.7
+2019;VWO;geschiedenis;71;0.5
+2019;VWO;aardrijkskunde;63;1.3
+2019;VWO;wiskunde A;79;1.2
+2019;VWO;wiskunde B;80;1.8
+2019;VWO;wiskunde C;80;0.9
+2019;VWO;natuurkunde;73;1.0
+2019;VWO;scheikunde;67;1.6
+2019;VWO;biologie;71;0.9
+2019;VWO;economie;59;1.0
+2019;VWO;management en organisatie;63;1.3
+2019;VWO;muziek;81;0.9
+2019;VWO;tekenen, handvaardigheid, textiele vormgeving;64;0.9
+2019;VWO;filosofie;45;0.8
+2019;VWO;maatschappijwetenschappen;73;0.8
+2019;VWO;kunst;66;1.0
