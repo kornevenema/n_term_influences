@@ -91,11 +91,49 @@ def filter_n_terms():
     print("'n-terms_filtered.csv' created")
 
 
+def append_extra_n_terms(config):
+    """
+    appends 2 columns to 'n-terms_filtered.csv':
+    - average n-term in that year of that course
+    - just 1.0, which would be the n-term if there was none
+    :param config:
+    :return:
+    """
+    with open('n-terms_filtered.csv', 'r') as f:
+        lines = csv.reader(f, delimiter=';')
+        next(lines)
+        with open('n-terms_complete.csv', 'w', newline='') as f:
+            writer = csv.writer(f, delimiter=";")
+            writer.writerow(['YEAR', 'DEGREE', 'COURSE_NAME', 'LENGTH_SCORE_SCALE', 'N-TERM', 'AVERAGE_N-TERM',
+                             'NO_N-TERM'])
+            dict_of_n_terms = {}
+
+            for line in lines:
+                if line[0] in dict_of_n_terms:
+                    if line[1] in dict_of_n_terms[line[0]]:
+                        dict_of_n_terms[str(line[0])][str(line[1])][0] = dict_of_n_terms[str(line[0])][str(line[1])][0] + \
+                                                                         float(line[4])
+                        dict_of_n_terms[str(line[0])][str(line[1])][1] = dict_of_n_terms[str(line[0])][str(line[1])][1] + 1
+                    else:
+                        dict_of_n_terms[str(line[0])][line[1]] = [float(line[4]), 1]
+
+                else:
+                    dict_of_n_terms[str(line[0])] = {str(line[1]): [float(line[4]), 1]}
+            with open('n-terms_filtered.csv', 'r') as f:
+                lines = csv.reader(f, delimiter=';')
+                next(lines)
+                for line in lines:
+                    average = round(dict_of_n_terms[str(line[0])][line[1]][0] / dict_of_n_terms[str(line[0])][line[1]][1], 1)
+                    new_line = line + [float(average), float(1)]
+                    writer.writerow(new_line)
+
+
 def main():
     with open('config.json', 'r') as f:
         config = json.load(f)
     create_csv(config)
     filter_n_terms()
+    append_extra_n_terms(config)
 
 
 if __name__ == "__main__":
