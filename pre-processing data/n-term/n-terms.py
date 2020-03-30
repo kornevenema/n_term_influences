@@ -62,7 +62,7 @@ def filter_n_terms():
 
     with open('n-terms_filtered.csv', 'w', newline='') as f:
         writer = csv.writer(f, delimiter=";")
-        writer.writerow(['YEAR', 'DEGREE', 'COURSE_NAME', 'LENGTH_SCORE_SCALE', 'N-TERM'])
+        writer.writerow(['YEAR', 'DEGREE', 'COURSE_NAME', 'N-TERM'])
         for line in lines:
             course = str(line[3])
             n_term = str(line[5])
@@ -86,7 +86,7 @@ def filter_n_terms():
                 course = course.replace('Griekse taal en cultuur', 'Grieks')
                 course = course.strip()
                 n_term = float(n_term.replace(',', '.'))
-                new_line = [int(line[0]), str(line[1]), course, int(line[4]), n_term]
+                new_line = [int(line[0]), str(line[1]), course, n_term]
                 writer.writerow(new_line)
     print("'n-terms_filtered.csv' created")
 
@@ -104,7 +104,7 @@ def append_extra_n_terms(config):
         next(lines)
         with open('n-terms_complete.csv', 'w', newline='') as f:
             writer = csv.writer(f, delimiter=";")
-            writer.writerow(['YEAR', 'DEGREE', 'COURSE_NAME', 'LENGTH_SCORE_SCALE', 'N-TERM', 'AVERAGE_N-TERM',
+            writer.writerow(['YEAR', 'DEGREE', 'COURSE_NAME', 'N-TERM', 'AVERAGE_N-TERM',
                              'NO_N-TERM'])
             dict_of_n_terms = {}
 
@@ -112,13 +112,13 @@ def append_extra_n_terms(config):
                 if line[0] in dict_of_n_terms:
                     if line[1] in dict_of_n_terms[line[0]]:
                         dict_of_n_terms[str(line[0])][str(line[1])][0] = dict_of_n_terms[str(line[0])][str(line[1])][0] + \
-                                                                         float(line[4])
+                                                                         float(line[3])
                         dict_of_n_terms[str(line[0])][str(line[1])][1] = dict_of_n_terms[str(line[0])][str(line[1])][1] + 1
                     else:
-                        dict_of_n_terms[str(line[0])][line[1]] = [float(line[4]), 1]
+                        dict_of_n_terms[str(line[0])][line[1]] = [float(line[3]), 1]
 
                 else:
-                    dict_of_n_terms[str(line[0])] = {str(line[1]): [float(line[4]), 1]}
+                    dict_of_n_terms[str(line[0])] = {str(line[1]): [float(line[3]), 1]}
             with open('n-terms_filtered.csv', 'r') as f:
                 lines = csv.reader(f, delimiter=';')
                 next(lines)

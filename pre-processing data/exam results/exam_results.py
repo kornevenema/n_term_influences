@@ -23,8 +23,10 @@ def check_dir(argv):
             print('all directories found')
         else:
             print('subdirectories not found')
+            exit(0)
     else:
         print('directories not found')
+        exit(0)
 
     return path_to_results
 
@@ -78,6 +80,10 @@ def create_csv(path_to_results):
                             degree = [row[8] + ' ' + row[9]]
                             if 'VMBO GL' in degree or 'VMBO TL' in degree:
                                 degree = ["VMBO GL en TL"]
+                            if 'VMBO BL' in degree:
+                                degree = ["VMBO BB"]
+                            if 'VMBO KL' in degree:
+                                degree = ["VMBO KB"]
                             new_row = row[0:8] + degree + row[10:]
                             writer.writerow(new_row)
             else:
@@ -107,14 +113,13 @@ def filter_results():
         'media', 'dienst', 'ondernemen', 'groen']
     with open('all_results_filtered.csv', 'w', newline='') as f:
         writer = csv.writer(f, delimiter=";")
-        writer.writerow(['YEAR', 'PROVINCE', 'DEGREE', 'COURSE_NAME', 'NUMBER_OF_STUDENTS', 'SCORE'])
+        writer.writerow(['YEAR', 'DEGREE', 'COURSE_NAME', 'SCORE'])
         for line in lines:
-            if not any(s in str(line[20]) for s in [',0', '0', '0,0']) \
+            if not any(s in str(line[22]) for s in [',0', '0', '0,0']) \
                     and not any(s in str(line[11]) for s in exceptions) \
                     and str(line[23]) != ',0':
-                prev = [int(line[0]), str(line[7]), str(line[8])]
+                prev = [int(line[0]) + 1, str(line[8])]
                 course = str(line[11])
-                number_of_students = int(line[21])
                 score = str(line[22])
                 score = float(score.replace(',', '.'))
                 course = course.replace('HAVO', '')
@@ -122,9 +127,6 @@ def filter_results():
                 course = course.replace('GL en TL', '')
                 course = course.replace('KB', '')
                 course = course.replace('BB', '')
-                course = course.replace('(bezem)', '')
-                course = course.replace('bezem', '')
-                course = course.replace('(pilot)', '')
                 course = course.replace('&', 'en')
                 course = course.replace('met kcv', '')
                 course = course.replace('Latijnse taal en cultuur', 'Latijn')
@@ -154,15 +156,37 @@ def filter_results():
                 elif 'beeldende vakken' in course:
                     course = 'beeldende vakken'
                 course = course.strip()
-                new_line = prev + [course, number_of_students, score]
+                new_line = prev + [course, score]
                 writer.writerow(new_line)
     print("'all_results_filtered.csv' successfully created")
+
+
+def add_more_results():
+    with open('../n-term/n-terms_complete.csv', 'r') as csv_file:
+        n_terms = csv.reader(csv_file, delimiter=';')
+        n_terms = list(n_terms)
+    lines = csv.reader(open('all_results_filtered.csv', 'r'), delimiter=';')
+    next(lines)
+    with open('all_results_complete.csv', 'w', newline='') as f:
+        writer = csv.writer(f, delimiter=";")
+        writer.writerow(['YEAR', 'DEGREE', 'COURSE_NAME', 'SCORE', 'SCORE_AVERAGE_N-TERM', 'SCORE_NO_N-TERM'])
+        for line in lines:
+            for n_term in n_terms[1:]:
+                if n_term[0] == line[0] and n_term[1] == line[1] and n_term[2] == line[2]:
+                    average_score = round(float(line[3]) + (float(n_term[4]) - float(n_term[3])), 1)
+                    no_score = round(float(line[3]) + (float(n_term[5]) - float(n_term[3])), 1)
+                    writer.writerow(line + [average_score, no_score])
+                pass
+
+
+
 
 
 def main(argv):
     path = check_dir(argv)
     create_csv(path)
     filter_results()
+    add_more_results()
 
 
 if __name__ == "__main__":
