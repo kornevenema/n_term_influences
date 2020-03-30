@@ -1,6 +1,47 @@
 import sys
 import os
 import csv
+import urllib.request
+import json
+
+
+def create_dir(config):
+    """
+    create all the needed directories and download all the data.
+    :param config:
+    :return:
+    """
+    if not os.path.exists('results'):
+        os.makedirs('results')
+        if any('VMBO' in degree for degree in config['degrees']):
+            os.makedirs('results\\vmbo_grades')
+            with open('links_to_results/vmbo.txt', "r") as f:
+                list_of_links = [line.strip() for line in f.readlines()]
+                for link, year in zip(list_of_links, config['years']):
+                    if str(year-1) + "-" + str(year) in str(link):
+                        urllib.request.urlretrieve(link, "results\\vmbo_grades\\vmbo" + str(year) + ".csv")
+            print('created vmbo data')
+
+        if any('HAVO' in degree for degree in config['degrees']):
+            os.makedirs('results\\havo_grades')
+            with open('links_to_results/havo.txt', "r") as f:
+                list_of_links = [line.strip() for line in f.readlines()]
+                for link, year in zip(list_of_links, config['years']):
+                    if str(year - 1) + "-" + str(year) in str(link):
+                        urllib.request.urlretrieve(link, "results\\havo_grades\\havo" + str(year) + ".csv")
+            print('created havo data')
+
+        if any('VWO' in degree for degree in config['degrees']):
+            os.makedirs('results\\vwo_grades')
+            with open('links_to_results/vwo.txt', "r") as f:
+                list_of_links = [line.strip() for line in f.readlines()]
+                for link, year in zip(list_of_links, config['years']):
+                    if str(year - 1) + "-" + str(year) in str(link):
+                        urllib.request.urlretrieve(link, "results\\vwo_grades\\vwo" + str(year) + ".csv")
+            print('created vwo data')
+    else:
+        print('directory "results" already exist, remove to create new directory.')
+
 
 
 def check_dir(argv):
@@ -177,12 +218,15 @@ def add_more_results():
                     no_score = round(float(line[3]) + (float(n_term[5]) - float(n_term[3])), 1)
                     writer.writerow(line + [average_score, no_score])
                 pass
-
+        print("'all_results_complete.csv' successfully created")
 
 
 
 
 def main(argv):
+    with open('../../config.json', 'r') as f:
+        config = json.load(f)
+    create_dir(config)
     path = check_dir(argv)
     create_csv(path)
     filter_results()

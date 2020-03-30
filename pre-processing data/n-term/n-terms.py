@@ -129,7 +129,7 @@ def append_extra_n_terms(config):
 
 
 def main():
-    with open('config.json', 'r') as f:
+    with open('../../config.json', 'r') as f:
         config = json.load(f)
     create_csv(config)
     filter_n_terms()
